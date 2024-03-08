@@ -9,6 +9,7 @@ export type Tool = {
     freeOffer?: string;
     description?: Record<string, any>;
     isFavorite?: boolean;
+    inactive?: boolean;
 };
 
 // Define the context
@@ -52,7 +53,7 @@ type ToolsProviderProps = {
     children: ReactNode;
 };
 
-const preprocessTools = (tools: Tool[], favorites: Set<string>): Tool[] => tools.map(tool => ({
+const preprocessTools = (tools: Tool[], favorites: Set<string>): Tool[] => tools.filter(tool => !tool.inactive).map(tool => ({
     ...tool,
     isFavorite: favorites.has(tool.name),
     tags: tool.tags.map(tag => tag.toLowerCase()),
@@ -102,6 +103,7 @@ export const ToolsProvider: React.FC<ToolsProviderProps> = ({ children }) => {
             toolsSearchTimeoutRef.current = null;
         }, 500);
     };
+
 
     const value = {
         filteredTools: tools.filter(tool => {

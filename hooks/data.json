@@ -10,7 +10,8 @@
         ],
         "freeOffer": "PAGE VIEWS < 10k\nDASHBOARD Private\nWEBSITES Unlimited\nEXPORT DATA",
         "url": "https://thesemetrics.org",
-        "logoPath": "/logos/TheseMetrics-httpsthesemetricsorgappletouchic.png"
+        "logoPath": "/logos/TheseMetrics-httpsthesemetricsorgappletouchic.png",
+        "inactive": true
     },
     {
         "name": "PopSQL",
