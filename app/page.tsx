@@ -1,5 +1,3 @@
-'use client';
-
 import Head from 'next/head';
 import { ToolsProvider } from '@/hooks/useTools'
 
@@ -7,8 +5,6 @@ import { TagsSection } from './components/tags-section';
 import { ToolsSection } from './components/tools-section';
 
 const Home: React.FC = () => {
-
-
   return (
     <ToolsProvider>
       <div className="flex flex-col lg:flex-row bg-gray-800 text-white min-h-screen">

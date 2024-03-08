@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useMemo, useRef } from 'react';
 import { Tool, useTools } from '@/hooks/useTools';
 import { CustomSelect } from '@/components/custom-select';

@@ -1,3 +1,5 @@
+'use client'
+
 import React, { createContext, useState, useEffect, useMemo, useCallback, ReactNode, useRef } from 'react';
 import toolsJson from './data.json';
 
