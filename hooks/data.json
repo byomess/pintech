@@ -2329,7 +2329,7 @@
             "pt-br": "Uma publicação diária que se concentra em tutoriais, histórias e recursos de código aberto e Linux para entusiastas e profissionais."
         },
         "tags": [
-            "opensource",
+            "open-source",
             "linux",
             "tutorials",
             "stories",
@@ -3502,7 +3502,7 @@
         },
         "tags": [
             "learning-resource",
-            "opensource"
+            "open-source"
         ],
         "url": "https://github.com/githubtraining/community-contributors",
         "logoPath": "/logos/communitycontributors-httpsgithubgithubassetscompinned.svg"
@@ -8710,7 +8710,7 @@
         "tags": [
             "no-code",
             "automation",
-            "opensource",
+            "open-source",
             "workflow",
             "productivity"
         ],
@@ -13250,7 +13250,7 @@
             "saas",
             "privacy-focused",
             "cookieless",
-            "opensource"
+            "open-source"
         ],
         "freeOffer": "Free tier:\nUp to 5000 events per month.\nCreate up to 10 projects.\n\nSelfhosed:\nNo limits.",
         "url": "https://swetrix.com",
