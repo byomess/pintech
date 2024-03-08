@@ -49,7 +49,7 @@ export const ToolsSection: React.FC<ToolsSectionProps> = ({
                   <div ref={ref} className="cursor-grab flex mt-2 overflow-auto hide-scrollbar gap-1" style={{ whiteSpace: 'nowrap' }}>
                     {tool.tags.map((tag, index) => (
                       <div key={index} className="text-xs whitespace-nowrap py-1 px-2 rounded-md bg-gray-800 text-gray-300">
-                        {tag.trim()}
+                        <span>{tag.trim()}</span>
                       </div>
                     ))}
                   </div>
@@ -61,7 +61,7 @@ export const ToolsSection: React.FC<ToolsSectionProps> = ({
                     e.stopPropagation();
                     toggleFavorite(tool.name);
                   }}
-                  className={`absolute top-0 right-0 transition duration-300 ease-in-out transform hover:scale-110 ${tool.isFavorite ? 'text-red-500' : 'text-gray-400'}`}
+                  className={`shadowed-text absolute top-0 right-0 transition duration-300 ease-in-out transform hover:scale-110 ${tool.isFavorite ? 'text-red-500' : 'text-gray-400'}`}
                   aria-label={tool.isFavorite ? 'Unfavorite' : 'Favorite'}
                   style={{ transformOrigin: 'center' }}
                 >

@@ -52,7 +52,7 @@ export const CustomSelect: FC<CustomSelectProps> = ({
     lg: 'px-6 py-3 text-lg',
   };
 
-  const buttonClass = `${sizeClasses[size]} rounded-md bg-gradient-to-r from-green-400 to-blue-500 text-white shadow-md hover:from-green-300 hover:to-blue-400 transition duration-300 ease-in-out flex items-center justify-between w-full`;
+  const buttonClass = `${sizeClasses[size]} shadowed-text rounded-md bg-gradient-to-r from-green-400 to-blue-500 text-white shadow-md hover:from-green-300 hover:to-blue-400 transition duration-300 ease-in-out flex items-center justify-between w-full`;
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {

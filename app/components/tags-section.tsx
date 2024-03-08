@@ -83,7 +83,7 @@ export const TagsSection: React.FC = () => {
             </div>
 
             <div className="min-h-56 h-56 overflow-y-auto">
-              <div className="flex flex-wrap">
+              <div className="flex flex-wrap gap-2">
                 {filteredAndSortedTags
                   .slice(0, showAllTags ? undefined : 10)
                   .map(tag => (
@@ -99,7 +99,7 @@ export const TagsSection: React.FC = () => {
 
             <div className="py-4 flex items-center border-t-2 border-solid border-gray-700">
               <button
-                className="min-w-40 w-full sm:w-1/2 px-2 text-sm py-1 rounded-md bg-gradient-to-r from-blue-500 to-purple-600 text-white shadow-md hover:from-blue-400 hover:to-purple-500 transition-colors duration-300 ease-in-out flex items-center justify-center relative"
+                className="shadowed-text min-w-40 w-full sm:w-1/2 px-2 text-sm py-1 rounded-md bg-gradient-to-r from-blue-500 to-purple-600 text-white shadow-md hover:from-blue-400 hover:to-purple-500 transition-colors duration-300 ease-in-out flex items-center justify-center relative"
                 onClick={() => setShowAllTags(!showAllTags)}
               >
                 <svg className={`absolute left-0 w-6 h-6 transform ${showAllTags ? 'rotate-180' : 'rotate-0'}`} viewBox="0 0 24 24" fill="currentColor">
