@@ -1,5 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
+import { useSearchParams } from 'next/navigation'
+
 import { useTools } from '@/hooks/useTools';
 import { useDraggableScroll } from '@/hooks/useDraggableScroll';
 
@@ -9,11 +11,12 @@ export const ToolsSection: React.FC<ToolsSectionProps> = ({
 }) => {
   const { ref } = useDraggableScroll();
   const searchElementRef = useRef<HTMLInputElement>(null);
+  const searchParams = useSearchParams();
+
   const [locale, setLocale] = useState<string>(() => {
     const localePropNames = ['lang', 'language', 'locale'];
-    const urlParams = new URLSearchParams(window.location.search);
-    const localeParam = localePropNames.find((propName) => urlParams.has(propName)) || '';
-    return urlParams.get(localeParam) || 'en-us';
+    const localeParam = localePropNames.find((propName) => searchParams.has(propName)) || '';
+    return searchParams.get(localeParam) || 'en-us';
   });
 
   const {
