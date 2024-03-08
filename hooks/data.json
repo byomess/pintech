@@ -96,8 +96,8 @@
         },
         "tags": [
             "debugging",
-            "web development",
-            "browser tools"
+            "web-development",
+            "browser-tools"
         ],
         "freeOffer": "Individuals and communities will always be able to use Replay for free.\nUnlimited recordings\nPrivacy controls\nLimited API Key support",
         "url": "https://www.replay.io/",
@@ -139,9 +139,9 @@
             "pt-br": "Analise automaticamente e melhore a qualidade do código com decoração de solicitação de pull para grandes linguagens."
         },
         "tags": [
-            "clean code",
+            "clean-code",
             "security",
-            "code review"
+            "code-review"
         ],
         "freeOffer": "Free for public projects\nUnlimited lines of code\nAnyone can see your project and browse your code\nYou have access to the full SonarCloud feature set\nChoose members of your team who can work on your projects",
         "url": "https://sonarcloud.io/",
@@ -154,7 +154,7 @@
             "pt-br": "Una o poder de um banco de dados com a simplicidade de uma planilha para uma organização e gerenciamento sem complicações."
         },
         "tags": [
-            "API",
+            "api",
             "database",
             "organization"
         ],
@@ -231,7 +231,7 @@
         },
         "tags": [
             "database",
-            "AWS",
+            "aws",
             "nosql"
         ],
         "freeOffer": "25 GB of Storage\n25 provisioned Write Capacity Units (WCU)\n25 provisioned Read Capacity Units (RCU)\nEnough to handle up to 200M requests per month.",
@@ -276,8 +276,8 @@
         },
         "tags": [
             "markdown",
-            "text formatting",
-            "document creation"
+            "text-formatting",
+            "document-creation"
         ],
         "url": "https://www.tablesgenerator.com/markdown_tables",
         "logoPath": "/logos/Markdown Tables generatorm-httpswwwtablesgeneratorcomstatic.png"
@@ -325,7 +325,7 @@
             "scraping",
             "crawling",
             "api",
-            "data extraction",
+            "data-extraction",
             "automation"
         ],
         "freeOffer": "1000 free API calls.",
@@ -402,7 +402,7 @@
             "database",
             "mac",
             "mysql",
-            "mariaDB"
+            "mariadb"
         ],
         "freeOffer": "Mac OS X only",
         "url": "https://sequel-ace.com/",
@@ -457,8 +457,8 @@
         "tags": [
             "job-listing",
             "ai",
-            "data science",
-            "machine learning",
+            "data-science",
+            "machine-learning",
             "developer"
         ],
         "freeOffer": "Browse the top paying AI/ML jobs from leading companies.",
@@ -474,7 +474,7 @@
         "tags": [
             "playground",
             "prototyping",
-            "library testing",
+            "library-testing",
             "javascript"
         ],
         "freeOffer": "Run JavaScript and TypeScript\nFormat code\nConfigure Babel presets and plugins\nSet a working directory",
@@ -501,10 +501,10 @@
             "pt-br": "Uma plataforma versátil de código aberto para aprendizado de máquina com um rico ecossistema de ferramentas e recursos."
         },
         "tags": [
-            "AI",
+            "ai",
             "machine-learning",
-            "data science",
-            "deep learning"
+            "data-science",
+            "deep-learning"
         ],
         "url": "https://www.tensorflow.org/",
         "logoPath": "/logos/TensorFlow-httpsavatarsgithubusercontentcom.png"
@@ -519,7 +519,7 @@
             "admin-panel",
             "internal-tool",
             "data",
-            "data visualization",
+            "data-visualization",
             "database"
         ],
         "freeOffer": "Free forever plan\nCreate up to 10 pages",
@@ -534,7 +534,7 @@
         },
         "tags": [
             "monitoring",
-            "log management",
+            "log-management",
             "cloud",
             "real-time",
             "web"
@@ -550,7 +550,7 @@
             "pt-br": "Serviço de hospedagem de imagens CDN alimentado por Cloudflare para upload e compartilhamento gratuito de imagens. Uma alternativa ao Imgbb."
         },
         "tags": [
-            "CDN",
+            "cdn",
             "image",
             "storage",
             "screen-sharing",
@@ -595,11 +595,11 @@
             "pt-br": "Um IDE inteligente para Java e outras linguagens JVM como Kotlin, Scala e Groovy, ideal para várias aplicações."
         },
         "tags": [
-            "IDE",
-            "Java",
-            "Kotlin",
-            "Scala",
-            "Groovy"
+            "ide",
+            "java",
+            "kotlin",
+            "scala",
+            "groovy"
         ],
         "freeOffer": "Free community edition",
         "url": "https://www.jetbrains.com/idea/download",
@@ -625,11 +625,11 @@
             "pt-br": "Uma ferramenta online versátil para codificação, compilação, execução e hospedagem em mais de 50 linguagens de programação."
         },
         "tags": [
-            "IDE",
+            "ide",
             "code",
             "compiler",
             "interpreter",
-            "REPL"
+            "repl"
         ],
         "freeOffer": "Multiplayer collaboration\n500MB of storage\n500MB of memory\n0.2 - 0.5 vCPUs",
         "url": "https://replit.com/",
@@ -643,8 +643,8 @@
         },
         "tags": [
             "job-listing",
-            "tech stack",
-            "salary range"
+            "tech-stack",
+            "salary-range"
         ],
         "url": "https://devitjobs.com",
         "logoPath": "/logos/DevITJobs-httpsstaticdevitjobscomlogoimage.png"
@@ -746,8 +746,8 @@
         "tags": [
             "site-reaction",
             "feedback",
-            "customer feedback",
-            "product feedback"
+            "customer-feedback",
+            "product-feedback"
         ],
         "freeOffer": "RESPONSES\n1000 per month\n\nUSAGE in\nUnlimited websites\nUnlimited surveys\nUnlimited users",
         "url": "https://freddyfeedback.com/",
@@ -763,7 +763,7 @@
             "readme-generator",
             "documentation",
             "repository",
-            "developer tools"
+            "developer-tools"
         ],
         "url": "https://github.com/golangid/anoman",
         "logoPath": "/logos/Anoman-httpsrawgithubusercontentcomgola.png"
@@ -807,8 +807,8 @@
         "tags": [
             "real-time",
             "api",
-            "data delivery",
-            "digital experiences"
+            "data-delivery",
+            "digital-experiences"
         ],
         "freeOffer": "6m monthly messages\n200 peak connections\n200 peak channels",
         "url": "https://ably.com/",
@@ -882,7 +882,7 @@
             "news",
             "tech",
             "startup",
-            "Y Combinator"
+            "y-combinator"
         ],
         "url": "https://news.ycombinator.com/",
         "logoPath": "/logos/Hacker News-httpsnewsycombinatorcomfaviconic.ico"
@@ -895,7 +895,7 @@
         },
         "tags": [
             "analytics",
-            "open source",
+            "open-source",
             "privacy-focused"
         ],
         "freeOffer": "Up to 10K monthly events\nUp to 3 websites\n1 year data retention\nCommunity support\nFree Self hosted",
@@ -911,7 +911,7 @@
         "tags": [
             "paas",
             "deployment",
-            "web server",
+            "web-server",
             "nodejs",
             "php"
         ],
@@ -927,9 +927,9 @@
         },
         "tags": [
             "documentation",
-            "static site generator",
+            "static-site-generator",
             "react",
-            "content creation"
+            "content-creation"
         ],
         "freeOffer": "Open Source",
         "url": "https://docusaurus.io/",
@@ -976,7 +976,7 @@
         },
         "tags": [
             "awesome-list",
-            "project development",
+            "project-development",
             "resources"
         ],
         "url": "https://github.com/gdcmarinho/awesome-project",
@@ -989,8 +989,8 @@
             "pt-br": "Serviço de DNS Dinâmico gratuito com scripts de atualização para diferentes plataformas, fornecendo subdomínios para dispositivos com IPs dinâmicos."
         },
         "tags": [
-            "DNS",
-            "ip address",
+            "dns",
+            "ip-address",
             "networking"
         ],
         "freeOffer": "Update IP scripts for most platforms and routers\n5 sub domains for free\nno need for regular logins and etc\npossible to use own domain (CNAME to duckdns subdomain)",
@@ -1033,11 +1033,11 @@
             "pt-br": "Gerencie e proteja suas credenciais na nuvem com facilidade usando este aplicativo de acesso à nuvem."
         },
         "tags": [
-            "AWS",
-            "Azure",
-            "Security",
-            "Cloud",
-            "Credentials"
+            "aws",
+            "azure",
+            "security",
+            "cloud",
+            "credentials"
         ],
         "freeOffer": "Open Source",
         "url": "https://www.leapp.cloud/",
@@ -1053,7 +1053,7 @@
             "ide",
             "kubernetes",
             "container",
-            "container orchestration",
+            "container-orchestration",
             "cloud"
         ],
         "freeOffer": "Open Source",
@@ -1184,9 +1184,9 @@
             "pt-br": "Hospedagem de site gratuita com PHP, MySQL, cPanel e sem anúncios."
         },
         "tags": [
-            "Hosting",
-            "PHP",
-            "Mysql"
+            "hosting",
+            "php",
+            "mysql"
         ],
         "freeOffer": "1 Website\n300 MB Disk Space\nLimited Bandwidth (3 GB)",
         "url": "https://www.000webhost.com/",
@@ -1380,7 +1380,7 @@
         },
         "tags": [
             "authentication",
-            "user management",
+            "user-management",
             "authorization"
         ],
         "freeOffer": "Up to 7500 MAUs (monthly active users)\nUp to 50 tenants (Up to 5 SAML tenants)\nEssential security and user protection\nNo Custom Domain\nCommunity support\n99% SLA\nNo Descope watermark",
@@ -1395,8 +1395,8 @@
         },
         "tags": [
             "vlang",
-            "code editor",
-            "online compiler"
+            "code-editor",
+            "online-compiler"
         ],
         "url": "https://play.vlang.io/",
         "logoPath": "/logos/V Playground  Run Edit Share V C-httpsplayvlangiofaviconico.ico"
@@ -1439,9 +1439,9 @@
         },
         "tags": [
             "blogging",
-            "web development",
+            "web-development",
             "design",
-            "developer tools"
+            "developer-tools"
         ],
         "url": "https://devdojo.com/",
         "logoPath": "/logos/Dev Dojo-httpsdevdojocomassetsimagesfavic.png"
@@ -1542,11 +1542,11 @@
             "pt-br": "Uma extensão de cliente HTTP para Visual Studio Code para teste de API com suporte GraphQL, uma alternativa leve ao Postman."
         },
         "tags": [
-            "API-testing",
-            "API-client",
-            "GraphQL",
-            "Visual Studio Code",
-            "HTTP Client"
+            "api-testing",
+            "api-client",
+            "graphql",
+            "visual-studio-code",
+            "http-client"
         ],
         "freeOffer": "Lightweight API Client\nSimple, Clean & Easy to use UI\nHandle Large Responses & View in Full Screen\nSupport VS Code Themes\nCollections & Environment Variables\nScriptless Testing",
         "url": "https://www.thunderclient.com/"
@@ -1646,11 +1646,11 @@
             "pt-br": "Obtenha facilmente as últimas taxas de câmbio estrangeiras com esta API de conversão de moeda gratuita e Pro em formato JSON."
         },
         "tags": [
-            "API",
+            "api",
             "exchangerate-api",
             "currency",
             "exchange",
-            "JSON"
+            "json"
         ],
         "freeOffer": "Open Access: Rate Limited\nAPI Key: 1 500 API requests p/m\n24 Hour Data Updates",
         "url": "https://www.exchangerate-api.com/",
@@ -1716,7 +1716,7 @@
             "storage",
             "image-api",
             "image-hosting",
-            "media-CDN"
+            "media-cdn"
         ],
         "freeOffer": "3000 uploads\n30 GB traffic \n3 GB storage",
         "url": "https://uploadcare.com/",
@@ -1729,9 +1729,9 @@
             "pt-br": "Plataforma para provisionamento, desenvolvimento e implantação de infraestrutura na nuvem de forma fácil."
         },
         "tags": [
-            "Infrastructure",
-            "Database",
-            "Hosting"
+            "infrastructure",
+            "database",
+            "hosting"
         ],
         "freeOffer": "Free trial 5$ credit",
         "url": "https://railway.app/",
@@ -1791,11 +1791,11 @@
             "pt-br": "Um ambiente de desenvolvimento seguro e ultrarrápido para codificar projetos de forma eficiente."
         },
         "tags": [
-            "IDE",
+            "ide",
             "development",
-            "coding assistant",
+            "coding-assistant",
             "collaboration",
-            "cloud platform"
+            "cloud-platform"
         ],
         "freeOffer": "Unlimited public projects\nSync with public github repos",
         "url": "https://stackblitz.com/",
@@ -1827,7 +1827,7 @@
         "tags": [
             "serverless",
             "cloud",
-            "cloud platform",
+            "cloud-platform",
             "development",
             "backend"
         ],
@@ -1843,7 +1843,7 @@
         },
         "tags": [
             "awesome-list",
-            "developer tools",
+            "developer-tools",
             "budget-friendly"
         ],
         "url": "https://github.com/255kb/stack-on-a-budget",
@@ -1875,7 +1875,7 @@
             "testing",
             "quality-assurance",
             "debugging",
-            "screen recording",
+            "screen-recording",
             "automation"
         ],
         "freeOffer": "Screen recording / Screenshots\nAutomatic technical log capture\nStorage for 50 bug reports",
@@ -1920,7 +1920,7 @@
             "conference",
             "alternative",
             "communication",
-            "webRTC"
+            "webrtc"
         ],
         "freeOffer": "HD audio video\nUnlimited free meeting access for up to 100 participants at a time\nEnd-to-End Encryption",
         "url": "https://meet.jit.si/",
@@ -1951,7 +1951,7 @@
         "tags": [
             "javascript",
             "code",
-            "coding assistant"
+            "coding-assistant"
         ],
         "url": "https://standardjs.com",
         "logoPath": "/logos/JavaScript Standard Style-httpsstandardjscomappletouchicon.png"
@@ -1965,8 +1965,8 @@
         "tags": [
             "productivity",
             "time-tracking",
-            "team productivity",
-            "team performance"
+            "team-productivity",
+            "team-performance"
         ],
         "freeOffer": "tracking time with a timer\nreporting\nbasic project management features\nteam management\nintegrations with 50+ tools",
         "url": "https://tmetric.com/",
@@ -1995,7 +1995,7 @@
             "passwordless-authentication",
             "security",
             "social-login",
-            "WebAuthn"
+            "webauthn"
         ],
         "freeOffer": "1,000 free monthly active users\n100 free text messages per month\nAccess to all login methods\nAccess to all 20 blockchains\nCustom logo and theme\nMagic Login Form and User Settings",
         "url": "https://magic.link/",
@@ -2054,11 +2054,11 @@
             "pt-br": "Colabore em tempo real para construir experiências digitais envolventes com uma plataforma de conteúdo unificada."
         },
         "tags": [
-            "CMS",
+            "cms",
             "collaboration",
             "real-time",
-            "digital experiences",
-            "content platform"
+            "digital-experiences",
+            "content-platform"
         ],
         "freeOffer": "Open source editing environment\nHosted, real-time content database\nGreat developer experience\n3 users, $10/mo for more\nGenerous usage quota",
         "url": "https://www.sanity.io/",
@@ -2116,9 +2116,9 @@
         },
         "tags": [
             "note-taking",
-            "self hosted",
-            "open source",
-            "data management",
+            "self-hosted",
+            "open-source",
+            "data-management",
             "organization"
         ],
         "freeOffer": "Free self-hosted",
@@ -2133,10 +2133,10 @@
         },
         "tags": [
             "project-management",
-            "mind map",
-            "knowledge management",
+            "mind-map",
+            "knowledge-management",
             "organization",
-            "idea development"
+            "idea-development"
         ],
         "url": "https://github.com/freeplane",
         "logoPath": "/logos/Freeplane-httpsgithubgithubassetscompinned.svg"
@@ -2208,7 +2208,7 @@
             "asset",
             "image",
             "photography",
-            "stock photos"
+            "stock-photos"
         ],
         "url": "https://pixabay.com/",
         "logoPath": "/logos/Pixabay-httpspixabaycomstaticimglogo_squ.png"
@@ -2265,10 +2265,10 @@
         },
         "tags": [
             "text-editor",
-            "IDE",
+            "ide",
             "cloud-text-editor",
             "collaboration",
-            "VS Code"
+            "vs-code"
         ],
         "freeOffer": "Text editor on your browser\n50 hours/month\nPublic Repos",
         "url": "https://www.gitpod.io/",
@@ -2298,8 +2298,8 @@
             "pt-br": "Otimize, monitore e proteja sua API GraphQL com cache de borda, insights de uso e proteção contra consultas maliciosas."
         },
         "tags": [
-            "CDN",
-            "API",
+            "cdn",
+            "api",
             "graphql",
             "security",
             "monitoring"
@@ -2395,7 +2395,7 @@
         "tags": [
             "encryption",
             "security",
-            "data protection"
+            "data-protection"
         ],
         "url": "https://www.kryptor.co.uk/",
         "logoPath": "/logos/Kryptor-httpsgblobscdngitbookcomspaces2F.png"
@@ -2407,9 +2407,9 @@
             "pt-br": "Otimize a criação de solicitações para desenvolvimento mais rápido em testes de API."
         },
         "tags": [
-            "API",
-            "API-testing",
-            "web automation"
+            "api",
+            "api-testing",
+            "web-automation"
         ],
         "freeOffer": "Open Source",
         "url": "https://hoppscotch.io/",
@@ -2510,9 +2510,9 @@
             "pt-br": "Um serviço de relatório meteorológico que utiliza serviços orientados para console, processando milhões de consultas diariamente."
         },
         "tags": [
-            "weather-API",
+            "weather-api",
             "console-oriented",
-            "weather service"
+            "weather-service"
         ],
         "url": "https://wttr.in",
         "logoPath": "/logos/Wttr-httpswwwlinkpicturecomqWttrinpng.png"
@@ -2609,8 +2609,8 @@
         "tags": [
             "monitoring",
             "javascript",
-            "API",
-            "E2E"
+            "api",
+            "e2e"
         ],
         "freeOffer": "50k API check runs/mo\n5k browser check runs/mo\n5 users, basic features",
         "url": "https://www.checklyhq.com/",
@@ -2669,7 +2669,7 @@
             "pt-br": "Um framework web de código aberto para construir ferramentas internas, painéis de administração, dashboards e fluxos de trabalho."
         },
         "tags": [
-            "CMS",
+            "cms",
             "admin-panel",
             "internal-tool",
             "web-framework",
@@ -2689,7 +2689,7 @@
             "hosting",
             "hosting-static",
             "frontend",
-            "web development"
+            "web-development"
         ],
         "freeOffer": "1 build at a time\n500 builds per month\nUnlimited sites\nUnlimited requests\nUnlimited bandwidth",
         "url": "https://pages.dev",
@@ -2735,7 +2735,7 @@
             "storage",
             "security",
             "decentralized",
-            "censorship resistance"
+            "censorship-resistance"
         ],
         "url": "https://www.bittorrent.com/token/bittorrent-file-system/",
         "logoPath": "/logos/BitTorrent-httpspbstwimgcomprofile_images16.png"
@@ -2747,10 +2747,10 @@
             "pt-br": "Simplifique a gestão de conteúdo dentro do seu fluxo de trabalho Git com esta ferramenta de código aberto."
         },
         "tags": [
-            "CMS",
+            "cms",
             "backend",
             "cloud",
-            "open source"
+            "open-source"
         ],
         "freeOffer": "Free / Open source",
         "url": "https://www.netlifycms.org/",
@@ -2780,9 +2780,9 @@
         "tags": [
             "scraping",
             "monitoring",
-            "data extraction",
-            "webpage tracking",
-            "API conversion"
+            "data-extraction",
+            "webpage-tracking",
+            "api-conversion"
         ],
         "freeOffer": "1 Task\nWorks on Most Websites\n24 Hour Checks\n1 Minute Per Execution\n14-Day Retention",
         "url": "https://www.browse.ai/",
@@ -2810,7 +2810,7 @@
         "tags": [
             "code-snippet",
             "collaboration",
-            "developer tools"
+            "developer-tools"
         ],
         "url": "https://gist.github.com/",
         "logoPath": "/logos/Gist-httpsgithubgithubassetscompinned.svg"
@@ -2896,7 +2896,7 @@
             "pt-br": "Uma ferramenta abrangente que oferece APIs REST para desenvolvedores web e móveis gerenciarem elementos de backend facilmente."
         },
         "tags": [
-            "API",
+            "api",
             "database",
             "storage",
             "authentication",
@@ -2929,7 +2929,7 @@
             "job-listing",
             "remote",
             "blockchain",
-            "DeFi"
+            "defi"
         ],
         "freeOffer": "Create profiles to showcase portfolio",
         "url": "https://remote3.co/",
@@ -2975,7 +2975,7 @@
         },
         "tags": [
             "image",
-            "CDN"
+            "cdn"
         ],
         "freeOffer": "Access wide varieties of images \nUnlimited pictures \nImage API",
         "url": "https://picsum.photos/",
@@ -3020,9 +3020,9 @@
         },
         "tags": [
             "book",
-            "learning resource",
+            "learning-resource",
             "development",
-            "coding assistant"
+            "coding-assistant"
         ],
         "freeOffer": "Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more",
         "url": "https://goalkicker.com/",
@@ -3035,7 +3035,7 @@
             "pt-br": "Uma API de reconhecimento de imagem para marcação, categorização, busca visual e moderação de conteúdo."
         },
         "tags": [
-            "AI",
+            "ai",
             "image",
             "api"
         ],
@@ -3079,7 +3079,7 @@
         "tags": [
             "ci-cd",
             "cloud",
-            "cloud infrastructure",
+            "cloud-infrastructure",
             "containerization",
             "deployment"
         ],
@@ -3094,10 +3094,10 @@
             "pt-br": "Plataforma de baixo código de código aberto para desenvolvedores, acelerando o desenvolvimento de ferramentas internas impulsionadas pelo código aberto."
         },
         "tags": [
-            "CMS",
+            "cms",
             "admin-panel",
             "internal-tool",
-            "low code"
+            "low-code"
         ],
         "freeOffer": "Free Cloud version for any team with up to 5 members.\nFree self-hosted",
         "url": "https://www.illacloud.com/",
@@ -3183,7 +3183,7 @@
             "pt-br": "Uma autoridade de certificação gratuita e automatizada fornecida pelo grupo sem fins lucrativos Internet Security Research Group (ISRG)."
         },
         "tags": [
-            "SSL",
+            "ssl",
             "encryption",
             "security"
         ],
@@ -3240,10 +3240,10 @@
         },
         "tags": [
             "cms",
-            "static site generator",
-            "blogging tool",
-            "SEO friendly",
-            "user interface"
+            "static-site-generator",
+            "blogging-tool",
+            "seo-friendly",
+            "user-interface"
         ],
         "url": "https://getpublii.com/",
         "logoPath": "/logos/Publii-httpsgetpubliicomfaviconico.ico"
@@ -3256,10 +3256,10 @@
         },
         "tags": [
             "mock-api",
-            "feature flags",
-            "agile development",
-            "API mocking",
-            "development cycle"
+            "feature-flags",
+            "agile-development",
+            "api-mocking",
+            "development-cycle"
         ],
         "freeOffer": "500 requests per day\n1 projects\n4 endpoints\n2 responses per endpoint\nUnlimited flags\nUnlimited evaluations per flag",
         "url": "https://mockfly.dev/",
@@ -3302,7 +3302,7 @@
             "job-listing",
             "remote",
             "design",
-            "software development",
+            "software-development",
             "marketing"
         ],
         "url": "https://remoteindex.co/",
@@ -3372,7 +3372,7 @@
             "email-testing",
             "testing",
             "smtp",
-            "fake server"
+            "fake-server"
         ],
         "freeOffer": "1 inbox, 200 emails!",
         "url": "https://mailcatch.app/",
@@ -3388,8 +3388,8 @@
             "monitoring",
             "status",
             "collaboration",
-            "incident management",
-            "Slack integration"
+            "incident-management",
+            "slack-integration"
         ],
         "freeOffer": "Unlimited Users\nSlack Powered Incident Workflows\n7 Day Data Retention",
         "url": "https://allma.io/",
@@ -3429,10 +3429,10 @@
             "pt-br": "Uma plataforma abrangente para sites estáticos, permitindo sincronização, construção, edição e hospedagem para Jekyll, Hugo e Eleventy."
         },
         "tags": [
-            "CMS",
-            "SSG",
-            "web hosting",
-            "web development"
+            "cms",
+            "ssg",
+            "web-hosting",
+            "web-development"
         ],
         "freeOffer": "Fully featured CMS\nUnlimited staging sites\nStaging publishing workflows\nUp to 3 team members\nClient sharing\nPay as you grow\nTwo-way syncing to your repository\nOptional CloudCannon hosting",
         "url": "https://cloudcannon.com",
@@ -3447,7 +3447,7 @@
         "tags": [
             "code-review",
             "analytics",
-            "learning resource"
+            "learning-resource"
         ],
         "url": "https://www.codermirror.com/",
         "logoPath": "/logos/CoderMirror-httpswwwcodermirrorcomimgfavicon-favicon.png"
@@ -3488,7 +3488,7 @@
             "backup",
             "database",
             "cloud",
-            "data security"
+            "data-security"
         ],
         "freeOffer": "Backup daily \n1 backup job \nDaily retention 500 MB \nConnect own storage",
         "url": "https://snapshooter.com/",
@@ -3592,7 +3592,7 @@
         "tags": [
             "status",
             "communication",
-            "real time",
+            "real-time",
             "updates"
         ],
         "freeOffer": "100 subscribers\n2 team members\n2 metrics\nemail notifications\nSlack notifications\nREST API",
@@ -3637,10 +3637,10 @@
         },
         "tags": [
             "database",
-            "self hosted",
-            "open source",
-            "Postgres",
-            "Mongodb"
+            "self-hosted",
+            "open-source",
+            "postgres",
+            "mongodb"
         ],
         "url": "https://hippobase.io/",
         "logoPath": "/logos/Hippobase-httpshippobaseioassetsfaviconfav.ico"
@@ -3729,9 +3729,9 @@
         "tags": [
             "automation",
             "testing",
-            "browser automation",
-            "web automation",
-            "web testing"
+            "browser-automation",
+            "web-automation",
+            "web-testing"
         ],
         "freeOffer": "Free browser add on\nLimited to 50 actions/commands/lines. \nAvailable for Firefox, Chrome, & IE.",
         "url": "https://www.progress.com/imacros",
@@ -3757,10 +3757,10 @@
             "pt-br": "Capacite editores com Git para criar, editar e visualizar sites baseados em Markdown de forma eficiente."
         },
         "tags": [
-            "CMS",
-            "code preview",
+            "cms",
+            "code-preview",
             "collaboration",
-            "content management",
+            "content-management",
             "markdown"
         ],
         "freeOffer": "Up to 3 sites\nInstant Site Preview before publishing\nCMS admin on your domain\nInactive sites archived after 3 months",
@@ -3773,7 +3773,7 @@
             "pt-br": "Compreenda as interações dos usuários em seu site com replays de sessão e mapas de calor."
         },
         "tags": [
-            "UX",
+            "ux",
             "browser-test",
             "analytics"
         ],
@@ -3836,7 +3836,7 @@
         "tags": [
             "unicode",
             "web",
-            "character search"
+            "character-search"
         ],
         "url": "https://unicode-table.com",
         "logoPath": "/logos/Unicode Character Table-httpsunicodetablecomifaviconsapp.png"
@@ -3850,7 +3850,7 @@
         "tags": [
             "documentation",
             "markdown",
-            "documentation generator"
+            "documentation-generator"
         ],
         "url": "https://www.mkdocs.org/",
         "logoPath": "/logos/MkDocs-httpswwwmkdocsorgimgfaviconico.ico"
@@ -3865,7 +3865,7 @@
             "browser",
             "web",
             "exploration",
-            "distributed web"
+            "distributed-web"
         ],
         "url": "https://github.com/AgregoreWeb",
         "logoPath": "/logos/Agregore Browser-httpsavatarsgithubusercontentcom.png"
@@ -3878,7 +3878,7 @@
         },
         "tags": [
             "serverless",
-            "AWS",
+            "aws",
             "cloud",
             "compute",
             "event-driven"
@@ -3920,7 +3920,7 @@
         },
         "tags": [
             "design",
-            "3D",
+            "3d",
             "asset"
         ],
         "url": "https://spline.design/",
@@ -3933,10 +3933,10 @@
             "pt-br": "Um gerador de site estático com base em Vue e abordagem minimalista, facilitando a criação de sites estáticos."
         },
         "tags": [
-            "SSG",
+            "ssg",
             "web",
-            "static site generator",
-            "Vue",
+            "static-site-generator",
+            "vue",
             "development"
         ],
         "url": "https://vuepress.vuejs.org/",
@@ -3968,8 +3968,8 @@
         "tags": [
             "git",
             "vcs",
-            "code review",
-            "CI/CD",
+            "code-review",
+            "ci/cd",
             "pipeline"
         ],
         "url": "https://gitness.com",
@@ -4058,9 +4058,9 @@
         "tags": [
             "community",
             "learning-resource",
-            "source code",
+            "source-code",
             "tutorials",
-            "software development"
+            "software-development"
         ],
         "freeOffer": "Post article\nAsk a question",
         "url": "https://www.codeproject.com/",
@@ -4075,7 +4075,7 @@
         "tags": [
             "hosting",
             "static",
-            "web hosting",
+            "web-hosting",
             "wordpress",
             "cloud"
         ],
@@ -4107,7 +4107,7 @@
         },
         "tags": [
             "git",
-            "VCS",
+            "vcs",
             "backend"
         ],
         "freeOffer": "Free self-hosted",
@@ -4153,8 +4153,8 @@
         },
         "tags": [
             "flutter",
-            "code generation",
-            "responsive design"
+            "code-generation",
+            "responsive-design"
         ],
         "freeOffer": "Create custom shape,\nGet Flutter code,\nMake layers",
         "url": "https://fluttershapemaker.com/",
@@ -4181,11 +4181,11 @@
             "pt-br": "Obtenha facilmente taxas de metais preciosos e câmbio ao vivo e históricas com esta API gratuita."
         },
         "tags": [
-            "API",
+            "api",
             "exchangerate-api",
             "finance",
-            "precious metals",
-            "foreign exchange"
+            "precious-metals",
+            "foreign-exchange"
         ],
         "freeOffer": "Free 100 Req/mo",
         "url": "https://metalpriceapi.com/",
@@ -4201,8 +4201,8 @@
             "blog",
             "documentation",
             "changelog",
-            "website builder",
-            "CMS"
+            "website-builder",
+            "cms"
         ],
         "freeOffer": "1k views / month\n20 Notion pages per site\nnotaku.site subdomain\n\"Made with Notaku\" banner",
         "url": "https://notaku.so/",
@@ -4232,7 +4232,7 @@
             "discussion",
             "forum",
             "community",
-            "open source",
+            "open-source",
             "communication"
         ],
         "url": "https://docs.github.com/en/discussions",
@@ -4259,8 +4259,8 @@
         "tags": [
             "ui-design",
             "prototyping",
-            "web design",
-            "visual programming"
+            "web-design",
+            "visual-programming"
         ],
         "freeOffer": "Unlimited viewers\nUp to 2 editors\nUp to 3 projects",
         "url": "https://www.framer.com/",
@@ -4304,11 +4304,11 @@
             "pt-br": "Um IDE completo para desenvolver, testar e distribuir aplicativos em plataformas da Apple."
         },
         "tags": [
-            "Swift",
-            "Xcode",
-            "IDE",
-            "iOS",
-            "macOS"
+            "swift",
+            "xcode",
+            "ide",
+            "ios",
+            "macos"
         ],
         "url": "https://developer.apple.com/xcode/",
         "logoPath": "/logos/Xcode-httpsdeveloperapplecomassetselem.png"
@@ -4322,7 +4322,7 @@
         "tags": [
             "analytics",
             "conversion",
-            "online business"
+            "online-business"
         ],
         "freeOffer": "Free website and SaaS analytics\nUp to 2.500 page views / month\n1 x Active A/B Test\n6 months retention",
         "url": "https://splitbee.io/",
@@ -4353,8 +4353,8 @@
         },
         "tags": [
             "git-ui",
-            "version control",
-            "repository management"
+            "version-control",
+            "repository-management"
         ],
         "url": "https://gitextensions.github.io/",
         "logoPath": "/logos/gitextensions-httpsavatarsgithubusercontentcom.png"
@@ -4458,7 +4458,7 @@
             "playground",
             "code",
             "collaboration",
-            "web development",
+            "web-development",
             "typescript"
         ],
         "url": "https://www.typescriptlang.org/play",
@@ -4607,9 +4607,9 @@
         },
         "tags": [
             "awesome-list",
-            "developer tools",
-            "open source",
-            "free services"
+            "developer-tools",
+            "open-source",
+            "free-services"
         ],
         "url": "https://free-for.dev/",
         "logoPath": "/logos/Free for dev-httpsfreefordevlogowebp.webp"
@@ -4669,10 +4669,10 @@
         },
         "tags": [
             "hosting-static",
-            "web hosting",
+            "web-hosting",
             "frontend",
             "development",
-            "CLI"
+            "cli"
         ],
         "freeOffer": "Unlimited publishing\nCustom Domain\nBasic SSL",
         "url": "https://surge.sh",
@@ -4688,7 +4688,7 @@
             "backend",
             "ui",
             "authentication",
-            "audit logs",
+            "audit-logs",
             "productivity"
         ],
         "freeOffer": "Unlimited tools\nUnlimited users\nFull component library\nDev & live environments\n24-hour audit logs\nPublic Discord support",
@@ -4704,7 +4704,7 @@
         "tags": [
             "hosting",
             "serverless",
-            "API",
+            "api",
             "tracing",
             "hosting-dynamic"
         ],
@@ -4768,10 +4768,10 @@
         },
         "tags": [
             "git",
-            "VCS",
-            "self hosted",
-            "code hosting",
-            "Go"
+            "vcs",
+            "self-hosted",
+            "code-hosting",
+            "go"
         ],
         "url": "https://gitea.io/"
     },
@@ -4810,7 +4810,7 @@
         },
         "tags": [
             "mock-data",
-            "API",
+            "api",
             "prototyping",
             "testing",
             "learning"
@@ -4923,9 +4923,9 @@
         "tags": [
             "admin-panel",
             "internal-tool",
-            "low code",
-            "open source",
-            "development platform"
+            "low-code",
+            "open-source",
+            "development-platform"
         ],
         "freeOffer": "10,000 internal records\n4 applications\nSSO + Role based access control\nCommunity support",
         "url": "https://www.budibase.com/",
@@ -5007,7 +5007,7 @@
         },
         "tags": [
             "testing",
-            "browser automation",
+            "browser-automation",
             "frontend"
         ],
         "freeOffer": "Users 3\nTest Results 500",
@@ -5051,8 +5051,8 @@
         },
         "tags": [
             "search",
-            "search engine",
-            "instant search",
+            "search-engine",
+            "instant-search",
             "typo-tolerant",
             "fast"
         ],
@@ -5082,8 +5082,8 @@
         },
         "tags": [
             "search",
-            "search engine",
-            "open source"
+            "search-engine",
+            "open-source"
         ],
         "freeOffer": "Open Source",
         "url": "https://www.meilisearch.com/",
@@ -5096,7 +5096,7 @@
             "pt-br": "Crie instantaneamente APIs GraphQL para conectar fontes de dados e construir aplicativos modernos de forma eficiente."
         },
         "tags": [
-            "API",
+            "api",
             "backend",
             "database",
             "development",
@@ -5156,10 +5156,10 @@
             "pt-br": "Um IDE Python focado em ciência de dados e desenvolvimento web, suportando vários frameworks web, linguagens de template e mais."
         },
         "tags": [
-            "IDE",
+            "ide",
             "python",
             "data-science",
-            "web development",
+            "web-development",
             "frameworks"
         ],
         "freeOffer": "Free community edition",
@@ -5189,7 +5189,7 @@
         "tags": [
             "design",
             "inspirations",
-            "web apps",
+            "web-apps",
             "screenshots"
         ],
         "freeOffer": "Free tier after sign up",
@@ -5221,8 +5221,8 @@
         },
         "tags": [
             "monitoring",
-            "incident management",
-            "oncall management",
+            "incident-management",
+            "oncall-management",
             "integration",
             "workflow"
         ],
@@ -5250,8 +5250,8 @@
             "pt-br": "Otimize o desenvolvimento de APIs com um conjunto de ferramentas abrangente para projetar e documentar APIs de forma eficiente."
         },
         "tags": [
-            "API",
-            "API-documentation",
+            "api",
+            "api-documentation",
             "development",
             "documentation",
             "tool"
@@ -5330,7 +5330,7 @@
         "tags": [
             "git-gui",
             "collaboration",
-            "version control"
+            "version-control"
         ],
         "url": "https://desktop.github.com/",
         "logoPath": "/logos/GitHub Desktop-httpsgithubgithubassetscompinned.svg"
@@ -5383,7 +5383,7 @@
             "pt-br": "Um construtor de currículo gratuito e de código aberto projetado para simplificar a criação, atualização e compartilhamento de currículos de forma eficiente."
         },
         "tags": [
-            "CV-builder"
+            "cv-builder"
         ],
         "url": "https://rxresu.me/",
         "logoPath": "/logos/Reactive Resume-httpsrxresumefaviconico.ico"
@@ -5411,9 +5411,9 @@
             "pt-br": "Argo CD é uma ferramenta de entrega contínua GitOps para Kubernetes, permitindo fluxos de trabalho de implantação declarativos."
         },
         "tags": [
-            "ci cd",
-            "container orchestration",
-            "deployment pipeline",
+            "ci-cd",
+            "container-orchestration",
+            "deployment-pipeline",
             "devops"
         ],
         "freeOffer": "Open Source",
@@ -5455,8 +5455,8 @@
             "pt-br": "Simplifique as interações com APIs com uma ferramenta intuitiva para desenvolvedores modernos. Otimize testes e tarefas de cliente de API sem esforço."
         },
         "tags": [
-            "API-testing",
-            "API-client"
+            "api-testing",
+            "api-client"
         ],
         "url": "https://httpie.io/",
         "logoPath": "/logos/HTTPie-httpshttpieioBrandFaviconsBlacka.png"
@@ -5568,10 +5568,10 @@
         },
         "tags": [
             "learning-resource",
-            "machine learning",
-            "vector retrieval",
+            "machine-learning",
+            "vector-retrieval",
             "open-source",
-            "AI"
+            "ai"
         ],
         "url": "https://hub.superlinked.com/",
         "logoPath": "/logos/VectorHub-httpsarchbeeimageuploadss3amazon.png"
@@ -5585,9 +5585,9 @@
         "tags": [
             "color-picker",
             "design",
-            "web design",
+            "web-design",
             "development",
-            "UI/UX"
+            "ui/ux"
         ],
         "url": "https://www.0to255.com/",
         "logoPath": "/logos/0to255 Color Picker Tool-httpswww0to255comassetslogomark6.svg"
@@ -5616,7 +5616,7 @@
             "mail",
             "newsletter",
             "marketing",
-            "email campaigns"
+            "email-campaigns"
         ],
         "freeOffer": "Email Builder\nMarketing CRM\nForms & Landing Pages\nCreative Assistant\nWebsite Builder & Mailchimp Domain\n2,000 contacts",
         "url": "https://mailchimp.com/",
@@ -5632,7 +5632,7 @@
             "awesome-link",
             "frontend",
             "community",
-            "programming language"
+            "programming-language"
         ],
         "url": "https://www.builtwithelm.co/",
         "logoPath": "/logos/Built with Elm-httpswwwbuiltwithelmcoimageslogo.svg"
@@ -5645,8 +5645,8 @@
         },
         "tags": [
             "text-editor",
-            "open source",
-            "developer tools"
+            "open-source",
+            "developer-tools"
         ],
         "url": "https://vscodium.com",
         "logoPath": "/logos/VSCodium-httpsvscodiumcomimgappletouchico.png"
@@ -5661,7 +5661,7 @@
             "chat",
             "feeds",
             "api",
-            "social media",
+            "social-media",
             "scalability"
         ],
         "freeOffer": "5 or less team members\nLess than $10k in monthly revenue\nLess than $100k in funding",
@@ -5678,8 +5678,8 @@
             "api",
             "database",
             "prototyping",
-            "web development",
-            "app development"
+            "web-development",
+            "app-development"
         ],
         "freeOffer": "Unlimited Projects\nRead, Write, Edit and Delete\n200 requests per month\n100 rows per sheet",
         "url": "https://sheety.co/",
@@ -5693,7 +5693,7 @@
         },
         "tags": [
             "security",
-            "SSL"
+            "ssl"
         ],
         "freeOffer": "1 Domain Protection, \nfree SSL certificate, Protection up to 1.5 Tbps and 500 Mpps",
         "url": "https://ddos-guard.net/en",
@@ -5719,9 +5719,9 @@
         "tags": [
             "productivity",
             "pomodoro",
-            "time management",
+            "time-management",
             "focus",
-            "task management"
+            "task-management"
         ],
         "url": "https://pomofocus.io",
         "logoPath": "/logos/Pomofocus-httpsphfilesimgixneteef3af08be75.png"
@@ -5769,7 +5769,7 @@
             "awesome-list",
             "education",
             "coding",
-            "developer tools"
+            "developer-tools"
         ],
         "freeOffer": "A lot of dev tools\nOnly for students",
         "url": "https://education.github.com/pack",
@@ -5812,9 +5812,9 @@
             "pt-br": "Automatize tarefas na web e transforme sites em APIs para operações escaláveis."
         },
         "tags": [
-            "API",
+            "api",
             "automation",
-            "web automation"
+            "web-automation"
         ],
         "freeOffer": "Free $5 platform credit usage\nData retention 7 days\nMemory actor 4 GB",
         "url": "https://www.apify.com/",
@@ -5846,9 +5846,9 @@
         "tags": [
             "api",
             "integration",
-            "developer tools",
-            "low code",
-            "cloud platform"
+            "developer-tools",
+            "low-code",
+            "cloud-platform"
         ],
         "freeOffer": "up to 10K invocations (each time a workflow or event source is triggered by an incoming event)",
         "url": "https://pipedream.com/",
@@ -5861,9 +5861,9 @@
             "pt-br": "Crie facilmente APIs a partir do Google Sheets gratuitamente com capacidades de implantação instantânea."
         },
         "tags": [
-            "API",
-            "Database",
-            "CMS"
+            "api",
+            "database",
+            "cms"
         ],
         "freeOffer": "Unlimited Projects\nUnlimited Rows per Sheet\nUnlimited Read Requests per month\nRead, Write, Edit and Delete",
         "url": "https://sheetson.com",
@@ -5877,7 +5877,7 @@
         },
         "tags": [
             "awesome-list",
-            "iOS",
+            "ios",
             "open-source",
             "collaboration",
             "development"
@@ -5893,8 +5893,8 @@
         "tags": [
             "accessibility",
             "pdf",
-            "document management",
-            "web accessibility"
+            "document-management",
+            "web-accessibility"
         ],
         "url": "https://pdfua.foundation/en/pdf-accessibility-checker-pac/",
         "logoPath": "/logos/PDFUA Foundation-httpspdfuafoundationwpcontentupl.png"
@@ -5921,7 +5921,7 @@
         "tags": [
             "image-optimizer",
             "image-hosting",
-            "media-CDN"
+            "media-cdn"
         ],
         "freeOffer": "Media CDN\nFile uploads\nEasy file management\nImage processing\nImage optimisation\nVideo streaming\n360 spin serving\n500 MB file storage\n2 GB / month CDN transfer",
         "url": "https://sirv.com/",
@@ -5983,9 +5983,9 @@
         "tags": [
             "git-gui",
             "git",
-            "developer tools",
+            "developer-tools",
             "workflow",
-            "version control"
+            "version-control"
         ],
         "freeOffer": "Solo user",
         "url": "https://gitkraken.com/",
@@ -6001,8 +6001,8 @@
             "devtools",
             "seo",
             "ai",
-            "domain management",
-            "image manipulation"
+            "domain-management",
+            "image-manipulation"
         ],
         "freeOffer": "Text Analysis Tools\nOnline Calculators\nUnit & Binary Converters\nImage Tools\nDomain & Tag Tools\nDevelopment Tools\nWebsite Management Tools",
         "url": "https://buff.tools/"
@@ -6015,9 +6015,9 @@
         },
         "tags": [
             "monitoring",
-            "real time",
+            "real-time",
             "visualization",
-            "health alarms"
+            "health-alarms"
         ],
         "freeOffer": "Open Source",
         "url": "https://www.netdata.cloud/",
@@ -6032,9 +6032,9 @@
         "tags": [
             "productivity",
             "pomodoro",
-            "task management",
-            "ambient sounds",
-            "background customization"
+            "task-management",
+            "ambient-sounds",
+            "background-customization"
         ],
         "url": "https://finishmytask.online/"
     },
@@ -6047,7 +6047,7 @@
         "tags": [
             "project-management",
             "collaboration",
-            "task management"
+            "task-management"
         ],
         "freeOffer": "Self Hosted",
         "url": "https://leantime.io/",
@@ -6064,7 +6064,7 @@
             "api",
             "development",
             "backend",
-            "open source"
+            "open-source"
         ],
         "url": "https://mockoon.com",
         "logoPath": "/logos/Mockoon-httpsmockooncomappletouchiconpng.png"
@@ -6091,10 +6091,10 @@
         },
         "tags": [
             "awesome-list",
-            "flat-CMS",
+            "flat-cms",
             "database",
-            "content management",
-            "web development"
+            "content-management",
+            "web-development"
         ],
         "url": "https://github.com/ahadb/flat-file-cms",
         "logoPath": "/logos/Flatfilecms-httpsgithubgithubassetscompinned.svg"
@@ -6124,7 +6124,7 @@
         "tags": [
             "cdn",
             "javascript",
-            "package management"
+            "package-management"
         ],
         "url": "https://www.skypack.dev/",
         "logoPath": "/logos/Skypack-httpswwwskypackdevfaviconpng.png"
@@ -6153,7 +6153,7 @@
             "pt-br": "Construa ferramentas internas de forma eficiente conectando blocos de construção a bancos de dados e APIs. Confiável por startups e Fortune 500s."
         },
         "tags": [
-            "CMS",
+            "cms",
             "database",
             "admin-panel",
             "internal-tool"
@@ -6238,9 +6238,9 @@
         "tags": [
             "microcontent",
             "api",
-            "server side",
+            "server-side",
             "toolkit",
-            "open source"
+            "open-source"
         ],
         "freeOffer": "Free self-hosted",
         "url": "http://tiddlyweb.com"
@@ -6278,7 +6278,7 @@
             "pt-br": "Otimize o implantação e gerenciamento de dispositivos IoT com infraestrutura abrangente para gestores de frota."
         },
         "tags": [
-            "IoT",
+            "iot",
             "cloud",
             "deployment",
             "management"
@@ -6294,9 +6294,9 @@
             "pt-br": "Backup e sincronização de arquivos na rede de forma eficiente com grande capacidade de armazenamento, alta velocidade e segurança robusta. Suporta educação online e dispositivos móveis."
         },
         "tags": [
-            "cloud storage",
+            "cloud-storage",
             "backup",
-            "file sharing",
+            "file-sharing",
             "security",
             "sync"
         ],
@@ -6364,7 +6364,7 @@
             "ide",
             "web",
             "development",
-            "code editor"
+            "code-editor"
         ],
         "url": "https://vscode.dev/"
     },
@@ -6375,9 +6375,9 @@
             "pt-br": "Acesse dispositivos com segurança atrás de firewalls com um túnel fácil de usar para acesso remoto e privacidade."
         },
         "tags": [
-            "VPN",
+            "vpn",
             "firewall",
-            "remote access",
+            "remote-access",
             "privacy",
             "security"
         ],
@@ -6393,8 +6393,8 @@
         "tags": [
             "storage",
             "cloud",
-            "cloud storage",
-            "object storage"
+            "cloud-storage",
+            "object-storage"
         ],
         "freeOffer": "Storage 10 GB / month\nClass A operations: mutate state 1,000,000 / month\nClass B operations: read existing state 10,000,000 / month",
         "url": "https://www.cloudflare.com/products/r2/",
@@ -6409,9 +6409,9 @@
         "tags": [
             "diagram",
             "flowchart",
-            "org chart",
-            "UML",
-            "ER"
+            "org-chart",
+            "uml",
+            "er"
         ],
         "freeOffer": "Open Source\nFree\nNo login or registration required",
         "url": "https://app.diagrams.net/",
@@ -6452,8 +6452,8 @@
             "pt-br": "Configure e utilize facilmente modelos de linguagem extensos em sua máquina local para projetos de IA."
         },
         "tags": [
-            "AI",
-            "LLM",
+            "ai",
+            "llm",
             "local"
         ],
         "freeOffer": "Free install for macOS, Linux, Win\nLLM open source \nChat AI like ChatGPT, Claude, and similars",
@@ -6468,10 +6468,10 @@
         },
         "tags": [
             "ip-api",
-            "ip address",
+            "ip-address",
             "geolocation",
-            "ASN data",
-            "VPN detection"
+            "asn-data",
+            "vpn-detection"
         ],
         "freeOffer": "1k daily API lookups without signup",
         "url": "https://ipapi.is",
@@ -6534,7 +6534,7 @@
             "formatter",
             "minifier",
             "validator",
-            "file formats"
+            "file-formats"
         ],
         "freeOffer": "free formatter html etc",
         "url": "https://www.freeformatter.com/"
@@ -6548,7 +6548,7 @@
         "tags": [
             "authorization",
             "security",
-            "access control"
+            "access-control"
         ],
         "freeOffer": "Free tier includes 1 million API requests per month & 1,000 authz rules.",
         "url": "https://warrant.dev/",
@@ -6561,7 +6561,7 @@
             "pt-br": "Automatize imagens de compartilhamento social para o WordPress sem esforço."
         },
         "tags": [
-            "WordPress",
+            "wordpress",
             "social-image",
             "social-media"
         ],
@@ -6593,9 +6593,9 @@
         "tags": [
             "crawl",
             "scraping",
-            "data extraction",
+            "data-extraction",
             "automation",
-            "web scraping"
+            "web-scraping"
         ],
         "freeOffer": "Unlimited pages per crawl\nUnlimited computers\n10,000 records per export\n2 concurrent local run\n10 Crawlers",
         "url": "https://www.octoparse.com/",
@@ -6622,10 +6622,10 @@
         },
         "tags": [
             "web",
-            "web development",
-            "website builder",
-            "website hosting",
-            "website management"
+            "web-development",
+            "website-builder",
+            "website-hosting",
+            "website-management"
         ],
         "freeOffer": "Build static sites\n1 space\n10 MB storage\n75 MB data / month\n500 requests / month\nw3spaces.com subdomain\nSSL certificate",
         "url": "https://www.w3schools.com/spaces/"
@@ -6676,9 +6676,9 @@
             "pt-br": "Capacite indivíduos subrepresentados na tecnologia com treinamento para carreiras em engenharia de software."
         },
         "tags": [
-            "HTML",
-            "CSS",
-            "JavaScript",
+            "html",
+            "css",
+            "javascript",
             "learning-resource",
             "career"
         ],
@@ -6694,7 +6694,7 @@
         },
         "tags": [
             "testing",
-            "QA"
+            "qa"
         ],
         "freeOffer": "5 hours free per month, No code automate testing",
         "url": "https://www.rainforestqa.com/",
@@ -6743,7 +6743,7 @@
             "windows",
             "customization",
             "desktop",
-            "user interface"
+            "user-interface"
         ],
         "url": "https://chrisandriessen.nl/taskbarx",
         "logoPath": "/logos/Taskbarx-httpschrisandriessennlimgappleto.png"
@@ -6783,8 +6783,8 @@
             "color-picker",
             "design",
             "development",
-            "web design",
-            "web development"
+            "web-design",
+            "web-development"
         ],
         "url": "https://uigradients.com/",
         "logoPath": "/logos/uiGradients-httpsuigradientscomstaticimagesf.png"
@@ -6845,7 +6845,7 @@
             "sql",
             "playground",
             "database",
-            "web app"
+            "web-app"
         ],
         "url": "https://sqliteviewer.app/",
         "logoPath": "/logos/SQLite Viewer Web App-httpssqliteviewerapplogo_512_mas.png"
@@ -6858,10 +6858,10 @@
         },
         "tags": [
             "learning-resources",
-            "web development",
-            "mobile development",
-            "game development",
-            "machine learning"
+            "web-development",
+            "mobile-development",
+            "game-development",
+            "machine-learning"
         ],
         "url": "https://projectlearn.io/",
         "logoPath": "/logos/ProjectLearn  Learn to Code by C-httpsprojectlearnioprojectlearnp.png"
@@ -6874,9 +6874,9 @@
         },
         "tags": [
             "job-listing",
-            "developer tools",
+            "developer-tools",
             "design",
-            "remote work",
+            "remote-work",
             "software"
         ],
         "freeOffer": "Job offers",
@@ -6909,8 +6909,8 @@
             "database",
             "sqlite",
             "performance",
-            "data portability",
-            "open source"
+            "data-portability",
+            "open-source"
         ],
         "freeOffer": "9 GB of total storage\nUp to 500 databases\nUp to 3 locations\n1 billion row reads per month\n25 million row writes per month\nTypeScript, Rust & Go APIs\nLocal development support with SQLite\nWorks with all edge-native and serverless environments",
         "url": "https://turso.tech/",
@@ -6971,10 +6971,10 @@
             "pt-br": "Componentes de UI acessíveis projetados para integração perfeita com Tailwind CSS, sem estilos."
         },
         "tags": [
-            "CSS",
-            "Tailwind",
+            "css",
+            "tailwind",
             "ui-component",
-            "CSS-for-react"
+            "css-for-react"
         ],
         "freeOffer": "A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
         "url": "https://headlessui.dev/",
@@ -7001,8 +7001,8 @@
         },
         "tags": [
             "queue",
-            "AWS",
-            "data transfer",
+            "aws",
+            "data-transfer",
             "communication",
             "scalability"
         ],
@@ -7046,8 +7046,8 @@
         },
         "tags": [
             "learning-resource",
-            "web design",
-            "online learning"
+            "web-design",
+            "online-learning"
         ],
         "url": "https://university.webflow.com/lesson",
         "logoPath": "/logos/Web design lessons  Webflow Univ-httpsassetsglobalwebsitefilescom-favicon.ico"
@@ -7076,9 +7076,9 @@
         "tags": [
             "markdown",
             "html",
-            "website builder",
-            "content management",
-            "web development"
+            "website-builder",
+            "content-management",
+            "web-development"
         ],
         "url": "https://html.earth/",
         "logoPath": "/logos/htmlearth-httpshtmlearthappletouchiconpng.png"
@@ -7091,10 +7091,10 @@
         },
         "tags": [
             "awesome-list",
-            "self hosted",
-            "web hosting",
-            "network services",
-            "server hosting"
+            "self-hosted",
+            "web-hosting",
+            "network-services",
+            "server-hosting"
         ],
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "logoPath": "/logos/awesomeselfhosted-httpsgithubgithubassetscompinned.svg"
@@ -7150,8 +7150,8 @@
             "screenshots",
             "ui-testing",
             "crawl",
-            "browser automation",
-            "web automation"
+            "browser-automation",
+            "web-automation"
         ],
         "url": "https://pptr.dev/",
         "logoPath": "/logos/Puppeteer-httpsuserimagesgithubusercontent.png"
@@ -7192,8 +7192,8 @@
         "tags": [
             "documentation",
             "code",
-            "knowledge sharing",
-            "development teams"
+            "knowledge-sharing",
+            "development-teams"
         ],
         "freeOffer": "1 private repo\nUp to 5 users\nUp to 30 verification tests per month*",
         "url": "https://swimm.io/",
@@ -7251,9 +7251,9 @@
         "tags": [
             "https",
             "proxy",
-            "load balancing",
-            "reverse proxy",
-            "open source"
+            "load-balancing",
+            "reverse-proxy",
+            "open-source"
         ],
         "freeOffer": "check it out at https://traefik.io/pricing/",
         "url": "https://traefik.io/traefik/",
@@ -7266,11 +7266,11 @@
             "pt-br": "Remova facilmente fundos de imagens usando tecnologia de IA. Serviço rápido e gratuito sem a necessidade de cadastro."
         },
         "tags": [
-            "image-API",
+            "image-api",
             "ai",
             "image",
-            "photo editor",
-            "background removal"
+            "photo-editor",
+            "background-removal"
         ],
         "freeOffer": "1 free high-res download\nUnlimited free previews on Removal.AI\n50 free previews via API and app",
         "url": "https://removal.ai/",
@@ -7283,10 +7283,10 @@
             "pt-br": "Plataforma para ambiente serverless que conecta APIs e serviços, combinando agilidade NoCode com poder de programação."
         },
         "tags": [
-            "Saas",
-            "PaaS",
+            "saas",
+            "paas",
             "serverless",
-            "API",
+            "api",
             "workflow"
         ],
         "freeOffer": "Credit: 1.000 yeps/month\nProcesses: up to 5 by team\nIntegrations: up to 3 by team\nTime by execution: 5 minutes",
@@ -7343,7 +7343,7 @@
             "pt-br": "Serviço de IDE na nuvem para desenvolvedores e equipes com edição colaborativa, diversas linguagens, desenvolvimento de GUI e acesso raiz em contêineres."
         },
         "tags": [
-            "IDE",
+            "ide",
             "cloud",
             "container",
             "collaboration"
@@ -7374,11 +7374,11 @@
             "pt-br": "Uma plataforma baseada na web para design 3D e prototipagem eletrônica com fácil gerenciamento e visualização de projetos."
         },
         "tags": [
-            "3D-design",
-            "Electronics",
-            "Prototyping",
-            "Visualization",
-            "Project Management"
+            "3d-design",
+            "electronics",
+            "prototyping",
+            "visualization",
+            "project-management"
         ],
         "url": "https://www.tinkercad.com/",
         "logoPath": "/logos/Tinkercad-httpswwwtinkercadcomassets_fe_2e.svg"
@@ -7424,7 +7424,7 @@
         "tags": [
             "analytics",
             "privacy",
-            "user tracking"
+            "user-tracking"
         ],
         "freeOffer": "Free up to 3k events or page views, per month.",
         "url": "https://getinsights.io/",
@@ -7438,9 +7438,9 @@
         },
         "tags": [
             "form",
-            "web app",
-            "web design",
-            "web development"
+            "web-app",
+            "web-design",
+            "web-development"
         ],
         "freeOffer": "Create unlimited online forms\nEmbed anywhere on the web",
         "url": "https://heyform.net/",
@@ -7481,7 +7481,7 @@
             "pt-br": "Ferramenta poderosa de desenvolvimento de baixo código para necessidades empresariais, gratuita e fácil de instalar."
         },
         "tags": [
-            "low code",
+            "low-code",
             "admin-panel",
             "internal-tool",
             "database"
@@ -7528,7 +7528,7 @@
         },
         "tags": [
             "ai",
-            "machinelearning-API"
+            "machinelearning-api"
         ],
         "url": "https://deepai.org/apis",
         "logoPath": "/logos/DeepAI API-httpsdeepaiorgstaticimagesfavico.ico"
@@ -7540,11 +7540,11 @@
             "pt-br": "Facilite a colaboração em equipe e gerenciamento de projetos de forma eficiente."
         },
         "tags": [
-            "Project-Management",
+            "project-management",
             "remote",
             "collaboration",
             "workflow",
-            "team productivity"
+            "team-productivity"
         ],
         "freeOffer": "Unlimited cards\nUnlimited members\nUp to 10 boards",
         "url": "https://trello.com/",
@@ -7585,7 +7585,7 @@
         "tags": [
             "browser-test",
             "testing",
-            "web automation"
+            "web-automation"
         ],
         "freeOffer": "1 parallel test\n60 Min/Month Live real time testing\n10 Screenshot Tests per month\n10 Responsive Test per month\nUnlimited access to LT Browser\n100 Minutes of free 2 parallel web+mobile automation testing\n100 lifetime minutes for Native App Testing on Emulators/Simulators\nFree 2000 screenshots/month of Visual Regression Testing",
         "url": "https://www.lambdatest.com/",
@@ -7633,7 +7633,7 @@
             "logistics",
             "parcel",
             "online",
-            "API"
+            "api"
         ],
         "freeOffer": "120,000 shipments per year free\nTracking for each package\nFree address verification with each label\nShipping insurance for 0.5% of value",
         "url": "https://www.easypost.com/",
@@ -7714,8 +7714,8 @@
         },
         "tags": [
             "learning-resource",
-            "web development",
-            "full stack",
+            "web-development",
+            "full-stack",
             "front-end",
             "back-end"
         ],
@@ -7731,7 +7731,7 @@
         "tags": [
             "cdn",
             "cloud",
-            "web hosting",
+            "web-hosting",
             "optimization"
         ],
         "url": "https://statically.io/",
@@ -7746,9 +7746,9 @@
         "tags": [
             "storage",
             "cdn",
-            "image hosting",
-            "media cdn",
-            "cloud storage"
+            "image-hosting",
+            "media-cdn",
+            "cloud-storage"
         ],
         "freeOffer": "Media CDN\nUpload widget, API and search\nImage and video transformations\n\nVideo transcoding and adaptive streaming\n\n25k transformations or\n25 GB of managed storage or\n25 GB of net viewing bandwidth",
         "url": "https://cloudinary.com/",
@@ -7829,8 +7829,8 @@
             "web-server",
             "server",
             "https",
-            "open source",
-            "Go"
+            "open-source",
+            "go"
         ],
         "url": "https://caddyserver.com/",
         "logoPath": "/logos/Caddy Server-httpscaddyservercomresourcesimag.png"
@@ -7860,7 +7860,7 @@
         },
         "tags": [
             "productivity",
-            "Project-Management",
+            "project-management",
             "remote"
         ],
         "freeOffer": "100% free forever",
@@ -7930,9 +7930,9 @@
         },
         "tags": [
             "ftp",
-            "cloud storage",
-            "file sharing",
-            "data security"
+            "cloud-storage",
+            "file-sharing",
+            "data-security"
         ],
         "url": "https://cyberduck.io/",
         "logoPath": "/logos/Cyberduck-httpscdncyberduckioimgcyberducki.png"
@@ -7963,7 +7963,7 @@
             "nocode",
             "signup",
             "onboarding",
-            "payment flows"
+            "payment-flows"
         ],
         "freeOffer": "Unlimited steps, questions, styles. \nFree up to 5 forms and 250 submissions / month.",
         "url": "https://feathery.io/",
@@ -8048,7 +8048,7 @@
         },
         "tags": [
             "community",
-            "AI",
+            "ai",
             "machine-learning",
             "open-source",
             "innovation"
@@ -8067,7 +8067,7 @@
             "favicon",
             "image",
             "emoji",
-            "web development"
+            "web-development"
         ],
         "url": "https://favicon.io/",
         "logoPath": "/logos/faviconio-httpsiibbco8jqq54jScreenShot2021.png"
@@ -8157,7 +8157,7 @@
             "crawling",
             "proxy",
             "captcha",
-            "data extraction"
+            "data-extraction"
         ],
         "freeOffer": "1000 Api Calls / month\n5 Concurrent Scrape\n7 Days logs retention for monitoring\nWebhooks",
         "url": "https://scrapfly.io/",
@@ -8202,8 +8202,8 @@
             "os",
             "linux",
             "security",
-            "penetration testing",
-            "ethical hacking"
+            "penetration-testing",
+            "ethical-hacking"
         ],
         "url": "https://www.kali.org/",
         "logoPath": "/logos/Kali Linux-httpswwwkaliorgimagesfaviconsvg.svg"
@@ -8217,7 +8217,7 @@
         "tags": [
             "playground",
             "frontend",
-            "code editor"
+            "code-editor"
         ],
         "freeOffer": "Unlimited public Pens and Collections\nUnlimited templates\nDebug view (requires log in)\n1 project with 10 files",
         "url": "https://codepen.io/",
@@ -8262,7 +8262,7 @@
             "virtualization",
             "desktop-interface",
             "libvirt",
-            "KVM"
+            "kvm"
         ],
         "url": "https://virt-manager.org/"
     },
@@ -8374,7 +8374,7 @@
         "tags": [
             "real-time",
             "communication",
-            "API",
+            "api",
             "security"
         ],
         "url": "https://emitter.io/",
@@ -8442,10 +8442,10 @@
             "pt-br": "Uma experiência de edição visual suportada pelo git para uso eficiente de sistemas de gerenciamento de conteúdo."
         },
         "tags": [
-            "CMS",
+            "cms",
             "git",
-            "content management",
-            "visual editing",
+            "content-management",
+            "visual-editing",
             "open-source"
         ],
         "freeOffer": "2 Users\n2 Roles\nNo Additional Users\nForum Support",
@@ -8474,7 +8474,7 @@
         "tags": [
             "devtools",
             "encryption",
-            "data security"
+            "data-security"
         ],
         "url": "https://onlinehashtools.com/"
     },
@@ -8486,7 +8486,7 @@
         },
         "tags": [
             "git-gui",
-            "version control",
+            "version-control",
             "workflow",
             "development",
             "software"
@@ -8535,7 +8535,7 @@
         "tags": [
             "asset",
             "image",
-            "image-API",
+            "image-api",
             "photography",
             "creative"
         ],
@@ -8552,9 +8552,9 @@
         "tags": [
             "virtual-machine",
             "enterprise",
-            "home use",
+            "home-use",
             "x86",
-            "AMD64/Intel64"
+            "amd64/intel64"
         ],
         "freeOffer": "Virtual Machine",
         "url": "https://www.virtualbox.org/",
@@ -8583,11 +8583,11 @@
             "pt-br": "Descubra uma seleção cuidadosa dos melhores geradores de sites estáticos de código aberto. Junte-se à comunidade e compartilhe seus favoritos!"
         },
         "tags": [
-            "SSG",
+            "ssg",
             "jamstack",
             "community-driven",
             "curated",
-            "open source"
+            "open-source"
         ],
         "url": "https://jamstack.org/generators/",
         "logoPath": "/logos/SSG List Jamstack-httpsjamstackorgimgfaviconsapple.png"
@@ -8600,10 +8600,10 @@
         },
         "tags": [
             "loadtest",
-            "stress test",
-            "website testing",
-            "API testing",
-            "server testing"
+            "stress-test",
+            "website-testing",
+            "api-testing",
+            "server-testing"
         ],
         "freeOffer": "free forever for up to 500 virtual users",
         "url": "https://loadforge.com/",
@@ -8618,9 +8618,9 @@
         "tags": [
             "docs",
             "flowchart",
-            "mind map",
+            "mind-map",
             "wireframe",
-            "sticky note"
+            "sticky-note"
         ],
         "freeOffer": "Up to 3000 items per workspace\nUnlimited members\nUp to 10 guests per file or folder\nReal-time collaboration",
         "url": "https://whimsical.com",
@@ -8637,7 +8637,7 @@
             "blog",
             "markdown",
             "filesystem",
-            "markdown support"
+            "markdown-support"
         ],
         "url": "https://github.com/Depado/smallblog",
         "logoPath": "/logos/smallblog-httpsgithubgithubassetscompinned.svg"
@@ -8665,8 +8665,8 @@
         },
         "tags": [
             "ai",
-            "machine learning",
-            "app development"
+            "machine-learning",
+            "app-development"
         ],
         "url": "https://liner.ai/",
         "logoPath": "/logos/Linerai-httpsucarecdncombdbaa47ade074f2c.jpg"
@@ -8806,7 +8806,7 @@
         },
         "tags": [
             "storage",
-            "AWS",
+            "aws",
             "cloud",
             "data",
             "security"
@@ -8881,7 +8881,7 @@
         "tags": [
             "playground",
             "code",
-            "web development",
+            "web-development",
             "frontend",
             "testing"
         ],
@@ -8913,7 +8913,7 @@
         "tags": [
             "comment",
             "php",
-            "open source",
+            "open-source",
             "anonymous",
             "engagement"
         ],
@@ -8945,7 +8945,7 @@
         "tags": [
             "optimization",
             "web",
-            "web development"
+            "web-development"
         ],
         "freeOffer": "Open Source",
         "url": "https://partytown.builder.io/",
@@ -8960,9 +8960,9 @@
         "tags": [
             "json",
             "formatter",
-            "data transformation",
-            "data validation",
-            "file conversion"
+            "data-transformation",
+            "data-validation",
+            "file-conversion"
         ],
         "url": "https://jsonformatter.org/",
         "logoPath": "/logos/Online JSON Formatter-httpsjsonformatterorgimgfaviconp.png"
@@ -8992,8 +8992,8 @@
         "tags": [
             "git",
             "vcs",
-            "source control",
-            "version control",
+            "source-control",
+            "version-control",
             "development"
         ],
         "url": "https://git-scm.com/",
@@ -9034,11 +9034,11 @@
             "pt-br": "Um CMS de arquivo plano alimentado por Gulp e AbsurdJS para desenvolvimento e gerenciamento eficientes de sites."
         },
         "tags": [
-            "flat-CMS",
-            "web development",
-            "website management",
-            "Gulp",
-            "AbsurdJS"
+            "flat-cms",
+            "web-development",
+            "website-management",
+            "gulp",
+            "absurdjs"
         ],
         "url": "https://krasimir.github.io/techy/",
         "logoPath": "/logos/Techy-httpsgithubgithubassetscompinned.svg"
@@ -9069,7 +9069,7 @@
             "network-protocol",
             "decentralized",
             "social-networking",
-            "W3C",
+            "w3c",
             "standard"
         ],
         "url": "https://activitypub.rocks",
@@ -9084,7 +9084,7 @@
         "tags": [
             "password-manager",
             "encryption",
-            "team collaboration",
+            "team-collaboration",
             "security"
         ],
         "freeOffer": "https://psono.pw (free hosted version)\nCommunity Edition (completely free)\nEnterprise Edition (free up to 10 ppl)",
@@ -9148,7 +9148,7 @@
             "postgres-service",
             "database",
             "cloud",
-            "database management"
+            "database-management"
         ],
         "freeOffer": "Shared high performance server\n20 MB data\n5 concurrent connections",
         "url": "https://www.elephantsql.com/",
@@ -9181,7 +9181,7 @@
             "awesome-list",
             "go",
             "gui",
-            "user interface",
+            "user-interface",
             "library"
         ],
         "url": "https://awesome-go.com/",
@@ -9207,9 +9207,9 @@
             "pt-br": "Plataforma de design de API e cliente para testar e documentar APIs."
         },
         "tags": [
-            "API-testing",
-            "API-client",
-            "API-documentation"
+            "api-testing",
+            "api-client",
+            "api-documentation"
         ],
         "freeOffer": "Open Source\nFree updates forever\nAPI Client\nDesign APIs\nPlugins\nCommunity Support (Github and Slack)",
         "url": "https://insomnia.rest/",
@@ -9254,7 +9254,7 @@
         "tags": [
             "automation",
             "productivity",
-            "browser automation"
+            "browser-automation"
         ],
         "freeOffer": "30 minutes / month\nMax execution time per run\n2m",
         "url": "https://browserflow.app/",
@@ -9268,9 +9268,9 @@
         },
         "tags": [
             "meta",
-            "SEO",
-            "social media",
-            "search engine optimization"
+            "seo",
+            "social-media",
+            "search-engine-optimization"
         ],
         "url": "https://metatags.io/",
         "logoPath": "/logos/Meta Tags-httpsmetatagsioassetsfavicon71ff.png"
@@ -9312,8 +9312,8 @@
         "tags": [
             "text-editor",
             "code",
-            "coding assistant",
-            "developer tools",
+            "coding-assistant",
+            "developer-tools",
             "productivity"
         ],
         "url": "https://www.gnu.org/software/emacs/",
@@ -9385,7 +9385,7 @@
         "tags": [
             "load-test",
             "testing",
-            "developer tools",
+            "developer-tools",
             "qa",
             "cloud"
         ],
@@ -9418,8 +9418,8 @@
         },
         "tags": [
             "storage",
-            "image hosting",
-            "social media",
+            "image-hosting",
+            "social-media",
             "community",
             "internet"
         ],
@@ -9435,8 +9435,8 @@
         },
         "tags": [
             "community",
-            "virtual meetings",
-            "creative collaboration"
+            "virtual-meetings",
+            "creative-collaboration"
         ],
         "url": "https://meetcafecito.com/",
         "logoPath": "/logos/Meet Cafecito-httpsuploadssslwebflowcom5f26dab.png"
@@ -9465,7 +9465,7 @@
             "control-panel",
             "hosting",
             "cloud",
-            "web hosting"
+            "web-hosting"
         ],
         "freeOffer": "Open Source",
         "url": "https://www.virtualmin.com/",
@@ -9494,7 +9494,7 @@
         },
         "tags": [
             "hosting",
-            "self hosted",
+            "self-hosted",
             "server"
         ],
         "freeOffer": "Free self-hosted",
@@ -9601,10 +9601,10 @@
             "pt-br": "API que fornece os horários de nascer e pôr do sol com base nas coordenadas de localização."
         },
         "tags": [
-            "weather-API",
-            "API",
-            "Science",
-            "time management"
+            "weather-api",
+            "api",
+            "science",
+            "time-management"
         ],
         "url": "https://sunrisesunset.io/api/",
         "logoPath": "/logos/Sunrise and Sunset Times-httpssunrisesunsetiowpcontentupl.jpg"
@@ -9617,7 +9617,7 @@
         },
         "tags": [
             "cms",
-            "self hosted",
+            "self-hosted",
             "cloud"
         ],
         "url": "https://berowra.xyz",
@@ -9649,8 +9649,8 @@
             "saas-boilerplate",
             "saas",
             "api",
-            "programming languages",
-            "software technologies"
+            "programming-languages",
+            "software-technologies"
         ],
         "freeOffer": "Unlimited API requests",
         "url": "https://volca.io/",
@@ -9665,8 +9665,8 @@
         "tags": [
             "serverless",
             "deployment",
-            "AWS",
-            "app development"
+            "aws",
+            "app-development"
         ],
         "freeOffer": "The best of AWS in seconds\nUp to 5 apps\nShared app resources\nSingle developer\nLimited throughput and database usage\nBasic support",
         "url": "https://begin.com/",
@@ -9679,8 +9679,8 @@
             "pt-br": "Simplifique o desenvolvimento de API com colaboração otimizada para criação mais rápida de APIs melhores."
         },
         "tags": [
-            "API-testing",
-            "API-client",
+            "api-testing",
+            "api-client",
             "collaboration",
             "development",
             "streamlined"
@@ -9841,10 +9841,10 @@
             "pt-br": "Sandbox colaborativo para desenvolvimento web rápido, permitindo que equipes criem, compartilhem e recebam feedback de forma eficiente."
         },
         "tags": [
-            "IDE",
+            "ide",
             "playground",
             "collaboration",
-            "web development"
+            "web-development"
         ],
         "freeOffer": "Free for individuals\n✓ All Platform features\n✓ Public sandboxes\n✓ Personal workspace",
         "url": "https://codesandbox.io/",
@@ -9988,7 +9988,7 @@
         "tags": [
             "product-management",
             "remote",
-            "team collaboration",
+            "team-collaboration",
             "secure",
             "scalable"
         ],
@@ -10006,8 +10006,8 @@
             "profiling",
             "information",
             "research",
-            "browser extension",
-            "technology identification"
+            "browser-extension",
+            "technology-identification"
         ],
         "url": "https://whatruns.com/",
         "logoPath": "/logos/whatruns-httpswhatrunscomfavappleicon180x.png"
@@ -10020,9 +10020,9 @@
         },
         "url": "https://dapiok.com",
         "tags": [
-            "API",
+            "api",
             "collaboration",
-            "API-documentation"
+            "api-documentation"
         ],
         "freeOffer": "3 personal projects\n1 project collaborator\n1 team\nUnlimited team members\n1 team project",
         "logoPath": "/logos/Dapi-httpsdapiokcomfaviconpng.png"
@@ -10047,9 +10047,9 @@
             "pt-br": "Um Gerador de Site Estático em PHP para criar e gerenciar sites estáticos de forma eficiente."
         },
         "tags": [
-            "SSG",
+            "ssg",
             "php",
-            "web development"
+            "web-development"
         ],
         "url": "https://sculpin.io/",
         "logoPath": "/logos/Sculpin-httpssculpinioimagesjackson2048x.png"
@@ -10061,9 +10061,9 @@
             "pt-br": "Aprimorando o desempenho da Internet com soluções de CDN, DNS, proteção contra DDoS e segurança para o seu site."
         },
         "tags": [
-            "CDN",
-            "SSL",
-            "DNS",
+            "cdn",
+            "ssl",
+            "dns",
             "security"
         ],
         "freeOffer": "Fast, easy-to-use DNS\nFree automated SSL certificates\nGlobal content delivery network (CDN)\nUnmetered mitigation of DDoS attacks with up to 67 Tbps capacity\nUp to 100k Workers requests and 30 scripts\n3 Page Rules",
@@ -10077,7 +10077,7 @@
             "pt-br": "API de backend auto-hospedada para desenvolvedores web e mobile com autenticação, banco de dados, armazenamento, recursos em tempo real, funções server-side e mais."
         },
         "tags": [
-            "API",
+            "api",
             "database",
             "storage",
             "authentication",
@@ -10113,7 +10113,7 @@
         "tags": [
             "home-cloud-system",
             "cloud",
-            "open source"
+            "open-source"
         ],
         "url": "https://www.casaos.io/",
         "logoPath": "/logos/CasaOS-httpswwwcasaosiofaviconappletouc.png"
@@ -10140,11 +10140,11 @@
             "pt-br": "CMS sem cabeçalho de código aberto, personalizável e orientado para desenvolvedores, alimentado por JavaScript."
         },
         "tags": [
-            "API",
-            "CMS",
+            "api",
+            "cms",
             "backend",
             "javascript",
-            "open source"
+            "open-source"
         ],
         "freeOffer": "Free forever (open source)\nREST & GraphQL API\nHighly Flexible Content Structure\nPowerful Content Management",
         "url": "https://strapi.io/",
@@ -10169,11 +10169,11 @@
             "pt-br": "Crie NFTs únicos por meio da criação de arte generativa baseada em navegador. Gere ativos digitais raros de forma segura sem que os dados saiam do seu dispositivo."
         },
         "tags": [
-            "NFT",
-            "AI",
+            "nft",
+            "ai",
             "browser",
-            "generative art",
-            "digital assets"
+            "generative-art",
+            "digital-assets"
         ],
         "url": "https://unwonted.io/",
         "logoPath": "/logos/Unwonted-httpsunwontedioimagesiconpng-favicon.png"
@@ -10186,10 +10186,10 @@
         },
         "tags": [
             "design",
-            "app builder",
+            "app-builder",
             "development",
-            "developer tools",
-            "ui design"
+            "developer-tools",
+            "ui-design"
         ],
         "url": "https://www.cardstock.run/"
     },
@@ -10201,10 +10201,10 @@
         },
         "tags": [
             "text-editor",
-            "coding assistant",
+            "coding-assistant",
             "collaboration",
-            "developer tools",
-            "code review"
+            "developer-tools",
+            "code-review"
         ],
         "freeOffer": "Open Source",
         "url": "https://atom.io/",
@@ -10384,7 +10384,7 @@
         "tags": [
             "api",
             "nocode",
-            "data extraction"
+            "data-extraction"
         ],
         "freeOffer": "100 runs per month\n10,000 records per month\n5 saved requests",
         "url": "https://datafetcher.com/",
@@ -10546,11 +10546,11 @@
             "pt-br": "Simplifique a implantação de código com infraestrutura totalmente gerenciada, domínios, certificados e CI/CD em sua conta de provedor de nuvem."
         },
         "tags": [
-            "DevOps",
-            "Kubernetes",
-            "Cloud",
-            "Deployment",
-            "Automation"
+            "devops",
+            "kubernetes",
+            "cloud",
+            "deployment",
+            "automation"
         ],
         "freeOffer": "Deploying on 1 kubernetes cluster is free forever",
         "url": "https://humalect.com/",
@@ -10563,7 +10563,7 @@
             "pt-br": "Simplifique o desenvolvimento, automação e entrega de projetos web modernos com esta ferramenta PaaS."
         },
         "tags": [
-            "PaaS"
+            "paas"
         ],
         "freeOffer": "Unlimited Projects\nTeam Social Feed\nDeploy any version\nCustom Domain\nFree SSL",
         "url": "https://www.fathym.com/",
@@ -10636,7 +10636,7 @@
             "bio",
             "web",
             "mobile",
-            "social media"
+            "social-media"
         ],
         "freeOffer": "within minutes, you’ll have a FREE website to share your skills",
         "url": "https://lynk.id",
@@ -10650,7 +10650,7 @@
         },
         "tags": [
             "database",
-            "database gui",
+            "database-gui",
             "management",
             "local",
             "installation"
@@ -10667,7 +10667,7 @@
         "tags": [
             "form",
             "survey",
-            "survey tool"
+            "survey-tool"
         ],
         "freeOffer": "99% features are available to solo user\nfor free and without limits.",
         "url": "https://tally.so/",
@@ -10682,9 +10682,9 @@
         "tags": [
             "serverless",
             "deployment",
-            "AWS",
-            "Azure",
-            "Google Cloud"
+            "aws",
+            "azure",
+            "google-cloud"
         ],
         "freeOffer": "1 User\nRun 1 concurrent build\nUp to 100K monitoring transactions/month",
         "url": "https://www.serverless.com/",
@@ -10697,7 +10697,7 @@
             "pt-br": "Plataforma CI/CD poderosa e fácil de configurar para processos de implantação sem falhas."
         },
         "tags": [
-            "CI-CD",
+            "ci-cd",
             "deployment"
         ],
         "freeOffer": "Unlimited Delivery Pipelines\nHigh-performance Build Environment\nEasy configuration via GUI & YAML\nFirst-class Docker support\nContinuous Deployment for GitHub, GitLab, Bitbucket, and more\nDetails:\n5 projects\n120 pipeline runs/mo\n512 MB Cache storage\n1 GB RAM & 2 vCPU\n1 Concurrent pipeline\n1 Parallel action",
@@ -10759,10 +10759,10 @@
         },
         "tags": [
             "job-listing",
-            "data science",
-            "machine learning",
-            "AI",
-            "big data"
+            "data-science",
+            "machine-learning",
+            "ai",
+            "big-data"
         ],
         "freeOffer": "Job offers",
         "url": "https://ai-jobs.net/",
@@ -10835,9 +10835,9 @@
         "tags": [
             "api",
             "serp",
-            "data extraction",
-            "search engine",
-            "real time"
+            "data-extraction",
+            "search-engine",
+            "real-time"
         ],
         "freeOffer": "100 searches / month",
         "url": "https://serpapi.com/",
@@ -10865,7 +10865,7 @@
         "tags": [
             "book",
             "python",
-            "linux command",
+            "linux-command",
             "react"
         ],
         "url": "https://flaviocopes.com/page/ebooks/",
@@ -10896,9 +10896,9 @@
         "tags": [
             "browser-test",
             "testing",
-            "cross-browser testing",
-            "mobile testing",
-            "compatibility testing"
+            "cross-browser-testing",
+            "mobile-testing",
+            "compatibility-testing"
         ],
         "freeOffer": "Free for open source project \ndetail [here](https://www.browserstack.com/open-source)",
         "url": "https://www.browserstack.com/",
@@ -10961,7 +10961,7 @@
             "api",
             "nocode",
             "backend",
-            "data extraction",
+            "data-extraction",
             "automation"
         ],
         "freeOffer": "300 requests/month\nPaused after 1 week inactivity",
@@ -10992,7 +10992,7 @@
             "pt-br": "Conecte dispositivos de forma segura com VPN de configuração zero para acesso remoto de qualquer local em minutos."
         },
         "tags": [
-            "VPN",
+            "vpn",
             "firewall",
             "security",
             "networking"
@@ -11082,7 +11082,7 @@
             "pt-br": "Treine modelos de aprendizado de máquina facilmente com este aplicativo gratuito de IA."
         },
         "tags": [
-            "AI",
+            "ai",
             "machine-learning"
         ],
         "freeOffer": "currently free in beta",
@@ -11113,7 +11113,7 @@
         "tags": [
             "self-hosted",
             "server",
-            "app development"
+            "app-development"
         ],
         "freeOffer": "Free self-hosted",
         "url": "https://github.com/YunoHost-Apps",
@@ -11155,7 +11155,7 @@
             "database-gui",
             "mysql",
             "mac",
-            "database management"
+            "database-management"
         ],
         "freeOffer": "Mac OS X only",
         "url": "https://www.sequelpro.com/",
@@ -11228,11 +11228,11 @@
             "pt-br": "API GraphQL+REST em tempo real para bancos de dados SQL com um aplicativo intuitivo para usuários não técnicos. 100% JavaScript."
         },
         "tags": [
-            "Database",
-            "SQL",
-            "GraphQL",
-            "API",
-            "CMS"
+            "database",
+            "sql",
+            "graphql",
+            "api",
+            "cms"
         ],
         "freeOffer": "Completely Free and Open-Source\nWorks with any New or Existing SQL Database\nREST & GraphQL API\nPowerful Content/Data/Asset Management\nCompletely Flexible Content Structure",
         "url": "https://directus.io/",
@@ -11247,8 +11247,8 @@
         "tags": [
             "git-hosting",
             "community",
-            "code sharing",
-            "project sharing"
+            "code-sharing",
+            "project-sharing"
         ],
         "url": "https://freshcode.club",
         "logoPath": "/logos/freshcodeclub-httpsfreshcodeclubimglogopng.png"
@@ -11261,7 +11261,7 @@
         },
         "tags": [
             "design",
-            "image editor",
+            "image-editor",
             "template",
             "graphics",
             "creative"
@@ -11281,7 +11281,7 @@
             "backend",
             "development",
             "devops",
-            "open source"
+            "open-source"
         ],
         "url": "https://pkg.go.dev/",
         "logoPath": "/logos/Go Packages-httpspkggodevstaticsharediconfav.ico"
@@ -11356,10 +11356,10 @@
         },
         "tags": [
             "wiki",
-            "note taking",
+            "note-taking",
             "organization",
-            "task management",
-            "information storage"
+            "task-management",
+            "information-storage"
         ],
         "url": "https://github.com/WikidPad",
         "logoPath": "/logos/WikidPad-httpsavatarsgithubusercontentcom.png"
@@ -11418,7 +11418,7 @@
         "tags": [
             "fundraising",
             "community",
-            "financial management"
+            "financial-management"
         ],
         "url": "https://opencollective.com/",
         "logoPath": "/logos/Open Collective-httpsopencollectivecomstaticimag.svg"
@@ -11432,7 +11432,7 @@
         "tags": [
             "email-testing",
             "spam-score",
-            "SMTP",
+            "smtp",
             "test-automation"
         ],
         "freeOffer": "500 Email test / month",
@@ -11463,7 +11463,7 @@
             "workflow",
             "automation",
             "api",
-            "data sharing",
+            "data-sharing",
             "integration"
         ],
         "freeOffer": "Free for self-hosted",
@@ -11530,7 +11530,7 @@
             "hosting-static",
             "serverless",
             "web",
-            "web hosting"
+            "web-hosting"
         ],
         "freeOffer": "no larger than 1 GB\nsoft bandwidth limit of 100GB/month\nsoft limit of 10 builds/hour",
         "url": "https://pages.github.com/",
@@ -11545,8 +11545,8 @@
         "tags": [
             "favicon",
             "image",
-            "web design",
-            "app development"
+            "web-design",
+            "app-development"
         ],
         "freeOffer": "Complete favicon generator",
         "url": "https://www.favicon-generator.org/",
@@ -11603,7 +11603,7 @@
         "tags": [
             "cron",
             "serverless",
-            "task management"
+            "task-management"
         ],
         "freeOffer": "For hobby plan:\n2 cron jobs\nTriggered once a day",
         "url": "https://vercel.com/docs/cron-jobs",
@@ -11706,9 +11706,9 @@
         "tags": [
             "database",
             "awesome-list",
-            "data management",
-            "data visualization",
-            "data extraction"
+            "data-management",
+            "data-visualization",
+            "data-extraction"
         ],
         "url": "https://github.com/mgramin/awesome-db-tools",
         "logoPath": "/logos/Awesome Database Tools-httpsgithubgithubassetscompinned.svg"
@@ -11747,9 +11747,9 @@
             "pt-br": "Aumente sua produtividade com um timer pomodoro projetado para otimizar a eficiência do trabalho e estudo."
         },
         "tags": [
-            "Productivity",
-            "Pomodoro",
-            "Time Management"
+            "productivity",
+            "pomodoro",
+            "time-management"
         ],
         "freeOffer": "pomotimer is free to use productivity tool which is based on pomodoro technique .",
         "url": "https://pomotimer.com/",
@@ -11807,10 +11807,10 @@
         },
         "tags": [
             "hosting-dynamic",
-            "AWS",
+            "aws",
             "cloud",
-            "cloud infrastructure",
-            "cloud platform"
+            "cloud-infrastructure",
+            "cloud-platform"
         ],
         "freeOffer": "1 Year Free  \n750 hours per month of Linux, RHEL, or SLES t2.micro or t3.micro instance dependent on region",
         "url": "https://aws.amazon.com/ec2",
@@ -11842,7 +11842,7 @@
             "note-taking",
             "markdown",
             "organization",
-            "information retrieval"
+            "information-retrieval"
         ],
         "freeOffer": "Open source\nBring your own cloud sync (git, ftp, dropbox, google drive, iCloud, etc)",
         "url": "https://obsidian.md/",
@@ -11897,9 +11897,9 @@
             "pt-br": "Planeje, colabore e conclua projetos sem esforço com uma ferramenta amigável para equipes. Comece em dois minutos."
         },
         "tags": [
-            "Project-Management",
-            "team collaboration",
-            "task manager"
+            "project-management",
+            "team-collaboration",
+            "task-manager"
         ],
         "freeOffer": "Free for Solo user",
         "url": "https://toggl.com/plan/",
@@ -11912,10 +11912,10 @@
             "pt-br": "Um software de código aberto baseado em políticas que fornece análises para ambientes multi-cloud e SaaS."
         },
         "tags": [
-            "CSPM",
-            "Cloud-Infrastructure",
-            "Security",
-            "Analytics"
+            "cspm",
+            "cloud-infrastructure",
+            "security",
+            "analytics"
         ],
         "freeOffer": "1 Project\n1 Connection\n1 Memeber\nSlack, Community support",
         "url": "https://selefra.io/"
@@ -11928,7 +11928,7 @@
         },
         "tags": [
             "communication",
-            "SMS",
+            "sms",
             "call"
         ],
         "url": "https://github.com/fonoster",
@@ -11958,7 +11958,7 @@
             "pt-br": "Descubra uma lista selecionada das melhores opções de CMS sem cabeçalho de código aberto. Junte-se à comunidade e compartilhe seu CMS favorito!"
         },
         "tags": [
-            "CMS",
+            "cms",
             "jamstack",
             "awesome-list"
         ],
@@ -12022,7 +12022,7 @@
             "awesome-list",
             "resource",
             "reference",
-            "URI",
+            "uri",
             "guide"
         ],
         "url": "https://github.com/moul/awesome-well-known",
@@ -12039,7 +12039,7 @@
             "tool",
             "generator",
             "template",
-            "Vite"
+            "vite"
         ],
         "url": "https://github.com/yasinatesim/markdown-manager",
         "logoPath": "/logos/Markdown Manager-httpsgithubgithubassetscompinned.svg"
@@ -12067,8 +12067,8 @@
         "tags": [
             "ssh",
             "windows",
-            "remote access",
-            "server management"
+            "remote-access",
+            "server-management"
         ],
         "url": "https://www.putty.org/",
         "logoPath": "/logos/Download PuTTY  a free SSH and t-httpswwwputtyorgPuttypng.png"
@@ -12109,7 +12109,7 @@
             "ui-component",
             "html",
             "css",
-            "open source"
+            "open-source"
         ],
         "freeOffer": "Open Source Buttons\nOpen Source Checkboxes\nOpen Source Toggle Switchers\nOpen Source Loaders\nOpen Source Cards\nOpen Source Inputs",
         "url": "https://uiverse.io/",
@@ -12141,7 +12141,7 @@
             "frontend",
             "career",
             "javascript",
-            "CSS3"
+            "css3"
         ],
         "url": "https://www.frontendinterviewquestions.com/",
         "logoPath": "/logos/Top Frontend Interview QnA-httpswwwfrontendinterviewquestio.ico"
@@ -12153,8 +12153,8 @@
             "pt-br": "Otimize o trabalho remoto com este abrangente conjunto de ferramentas de gerenciamento de projetos."
         },
         "tags": [
-            "Project-Management",
-            "Remote"
+            "project-management",
+            "remote"
         ],
         "freeOffer": "3 Projects\n20 users\n1 GB storage space",
         "url": "https://basecamp.com/",
@@ -12231,7 +12231,7 @@
             "mail-server",
             "email",
             "web",
-            "open source"
+            "open-source"
         ],
         "freeOffer": "self-hosted",
         "url": "https://modoboa.org/en/",
@@ -12259,8 +12259,8 @@
         "tags": [
             "job-listing",
             "remote",
-            "visa sponsorship",
-            "Europe"
+            "visa-sponsorship",
+            "europe"
         ],
         "freeOffer": "English Speaking Jobs for Developers with Visa Sponsorship",
         "url": "https://www.arbeitnow.com",
@@ -12344,8 +12344,8 @@
         "tags": [
             "cloud",
             "deployment",
-            "Infrastructure",
-            "CI-CD"
+            "infrastructure",
+            "ci-cd"
         ],
         "freeOffer": "1 member\n Any cloud and language\n State & secret management\n Unlimited deployments\n CI/CD Integrations",
         "url": "https://www.pulumi.com/pricing/",
@@ -12376,7 +12376,7 @@
         "tags": [
             "css",
             "frontend",
-            "web design"
+            "web-design"
         ],
         "freeOffer": "Free Tailwind CSS Components",
         "url": "https://daisyui.com/",
@@ -12404,7 +12404,7 @@
             "pt-br": "Obtenha insights sobre o comportamento do usuário em seu site, colete feedback e otimize para conversões."
         },
         "tags": [
-            "UX",
+            "ux",
             "analytics"
         ],
         "freeOffer": "2000 pageviews per day\nCreate up to 3 snapshot Heatmaps\nSnapshot Recordings, up to 100 per day (store up to 300)\nSend and store up to 3 surveys\nCreate and store up to 3 Incoming Feedback widgets\nStore heatmap and recordings data for 365 days\nUnlimited team members",
@@ -12421,7 +12421,7 @@
             "file-sharing",
             "security",
             "anonymous",
-            "REST API"
+            "rest-api"
         ],
         "freeOffer": "Manage your files in the file.io web app\nShare files up to 100 MB\nAPI rate limit: 1 request/minute\nFiles auto-deleted after 1 download",
         "url": "https://www.file.io/",
@@ -12438,7 +12438,7 @@
             "testing",
             "frontend",
             "development",
-            "API"
+            "api"
         ],
         "freeOffer": "No clear limit, but you can easily paste your response and link will be generated",
         "url": "https://mocki.io/",
@@ -12495,10 +12495,10 @@
             "pt-br": "Crie facilmente gráficos de linha personalizáveis online gratuitamente. Baixe como jpg ou png. Ferramenta simples para visualização de dados."
         },
         "tags": [
-            "Graphs",
-            "Charts",
-            "Data-visualization",
-            "Diagram"
+            "graphs",
+            "charts",
+            "data-visualization",
+            "diagram"
         ],
         "url": "https://linegraphmaker.co/",
         "logoPath": "/logos/Line Graph Maker  Create a line -httpslinegraphmakercoiconico.ico"
@@ -12527,8 +12527,8 @@
         },
         "tags": [
             "spreadsheet",
-            "data import",
-            "customer onboarding"
+            "data-import",
+            "customer-onboarding"
         ],
         "freeOffer": "Embeddable spreadsheet importer\nImport up to 10,000 records per month\nFrontend data validation and cleaning\nBackend data validation support\n1 Template",
         "url": "https://flatironsdevelopment.com/products/fuse/",
@@ -12576,7 +12576,7 @@
         },
         "tags": [
             "api",
-            "crypto-API",
+            "crypto-api",
             "data",
             "cryptocurrency",
             "exchange"
@@ -12595,7 +12595,7 @@
             "ai",
             "research",
             "deployment",
-            "artificial general intelligence",
+            "artificial-general-intelligence",
             "humanity"
         ],
         "freeOffer": "Start experimenting with $18 in free credit that can be used during your first 3 months.",
@@ -12697,7 +12697,7 @@
             "pt-br": "Otimize seu processo de desenvolvimento automatizando tarefas mundanas como builds quebradas, revisões de código demoradas e testes instáveis."
         },
         "tags": [
-            "CI-CD",
+            "ci-cd",
             "code-review",
             "automation",
             "development"
@@ -12713,7 +12713,7 @@
             "pt-br": "Crie currículos profissionais em 15 minutos com facilidade usando esta ferramenta de construção de CV."
         },
         "tags": [
-            "CV-builder",
+            "cv-builder",
             "resume",
             "professional",
             "efficiency"
@@ -12783,11 +12783,11 @@
             "pt-br": "Um servidor de automação de código aberto para construir, testar e implantar software de forma eficiente."
         },
         "tags": [
-            "ci cd",
+            "ci-cd",
             "deployment",
             "devops",
-            "continuous integration",
-            "continuous deployment"
+            "continuous-integration",
+            "continuous-deployment"
         ],
         "freeOffer": "Free forever and Open Source",
         "url": "https://www.jenkins.io/",
@@ -12801,10 +12801,10 @@
         },
         "tags": [
             "playground",
-            "web development",
-            "code editor",
-            "real-time editing",
-            "HTML/CSS/JS"
+            "web-development",
+            "code-editor",
+            "real-time-editing",
+            "html/css/js"
         ],
         "url": "https://jsbin.com/",
         "logoPath": "/logos/JS Bin-httpsstaticjsbincomimagesfavicon.png"
@@ -12816,11 +12816,11 @@
             "pt-br": "Automatize a construção, teste e implantação de código no Bitbucket Cloud para integração e entrega contínuas."
         },
         "tags": [
-            "ci cd",
+            "ci-cd",
             "cloud",
             "deployment",
             "workflow",
-            "version control"
+            "version-control"
         ],
         "freeOffer": "Free 50 min / month included",
         "url": "https://bitbucket.org/product/features/pipelines"
@@ -12891,8 +12891,8 @@
         "tags": [
             "html",
             "code",
-            "web development",
-            "text editing"
+            "web-development",
+            "text-editing"
         ],
         "url": "https://html-cleaner.com/",
         "logoPath": "/logos/HTML Cleaner-httpshtmlcleanercomimagesdoctoht.png"
@@ -12936,7 +12936,7 @@
         "tags": [
             "job-listing",
             "career",
-            "tech stack",
+            "tech-stack",
             "salary"
         ],
         "url": "https://stackoverflow.com/jobs",
@@ -12952,7 +12952,7 @@
             "database",
             "serverless",
             "scalability",
-            "developer tools"
+            "developer-tools"
         ],
         "freeOffer": "3 free databases\n10GB storage*\n100 Million rows read/mo*\n10 Million rows written/mo*",
         "url": "https://www.planetscale.com/",
@@ -12983,7 +12983,7 @@
             "wallet",
             "cryptocurrency",
             "blockchain",
-            "DeFi"
+            "defi"
         ],
         "freeOffer": "free crypto wallet",
         "url": "https://metamask.io/",
@@ -12998,7 +12998,7 @@
         "tags": [
             "chat",
             "knowledge-base",
-            "customer support"
+            "customer-support"
         ],
         "freeOffer": "2 Seats (Admin)\nFor personal websites and anyone who wants a basic chat to communicate with visitors.  \nLivechat, Team Inbox, Mobile Apps, Notification",
         "url": "https://crisp.chat/",
@@ -13026,8 +13026,8 @@
         },
         "tags": [
             "html",
-            "web development",
-            "code generation"
+            "web-development",
+            "code-generation"
         ],
         "freeOffer": "HTML Generator\nHTML Editor\nHTML Template",
         "url": "https://www.html.am/",
@@ -13088,9 +13088,9 @@
         "tags": [
             "emulator",
             "virtualization",
-            "open source",
-            "operating systems",
-            "software development"
+            "open-source",
+            "operating-systems",
+            "software-development"
         ],
         "url": "https://qemu.org/",
         "logoPath": "/logos/QEMU-httpsqemuorgassetsfaviconsapplet.png"
@@ -13117,7 +13117,7 @@
             "pt-br": "Rede global para otimização de imagens em tempo real, redimensionamento, upload e CDN rápido para uma melhor experiência do usuário."
         },
         "tags": [
-            "CDN",
+            "cdn",
             "image",
             "storage"
         ],
@@ -13216,9 +13216,9 @@
             "pt-br": "Assistente de conteúdo de IA para fundadores e profissionais de marketing. Crie conteúdo de alta qualidade com GPT-3."
         },
         "tags": [
-            "AI",
-            "SEO",
-            "content creation",
+            "ai",
+            "seo",
+            "content-creation",
             "marketing",
             "founders"
         ],
@@ -13265,7 +13265,7 @@
         "tags": [
             "database",
             "dbms",
-            "database management"
+            "database-management"
         ],
         "url": "https://dbeaver.io/",
         "logoPath": "/logos/DBeaver Community-httpsdbeaveriowpcontentuploads20.png"
@@ -13278,8 +13278,8 @@
         },
         "tags": [
             "aws",
-            "credit extension",
-            "cloud credits"
+            "credit-extension",
+            "cloud-credits"
         ],
         "url": "https://credithero.io/",
         "logoPath": "/logos/CreditHero-httpscreditheroioassetsfaviconfa.ico"
@@ -13291,7 +13291,7 @@
             "pt-br": "Automatize fluxos de trabalho de software com capacidades de CI-CD de classe mundial diretamente do GitHub. Construa, teste e implante código de forma contínua."
         },
         "tags": [
-            "CI-CD",
+            "ci-cd",
             "serverless",
             "cron"
         ],

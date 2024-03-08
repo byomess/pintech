@@ -9,6 +9,12 @@ export const ToolsSection: React.FC<ToolsSectionProps> = ({
 }) => {
   const { ref } = useDraggableScroll();
   const searchElementRef = useRef<HTMLInputElement>(null);
+  const [locale, setLocale] = useState<string>(() => {
+    const localePropNames = ['lang', 'language', 'locale'];
+    const urlParams = new URLSearchParams(window.location.search);
+    const localeParam = localePropNames.find((propName) => urlParams.has(propName)) || '';
+    return urlParams.get(localeParam) || 'en-us';
+  });
 
   const {
     setToolsSearchTerm,
@@ -71,7 +77,7 @@ export const ToolsSection: React.FC<ToolsSectionProps> = ({
                 </button>
               </div>
               <p className="mt-2 text-gray-300 text-sm overflow-hidden">
-                {tool.description?.["pt-br"]}
+                {tool.description?.[locale]}
               </p>
             </div>
           ))}
