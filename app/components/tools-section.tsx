@@ -1,6 +1,6 @@
-'use client'
+"use client"
 
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState, Suspense } from 'react';
 import Image from 'next/image';
 import { useSearchParams } from 'next/navigation'
 
@@ -9,8 +9,7 @@ import { useDraggableScroll } from '@/hooks/useDraggableScroll';
 
 export type ToolsSectionProps = {};
 
-export const ToolsSection: React.FC<ToolsSectionProps> = ({
-}) => {
+const _ToolsSection: React.FC<ToolsSectionProps> = () => {
   const { ref } = useDraggableScroll();
   const searchElementRef = useRef<HTMLInputElement>(null);
   const searchParams = useSearchParams();
@@ -25,7 +24,7 @@ export const ToolsSection: React.FC<ToolsSectionProps> = ({
     setToolsSearchTerm,
     toggleFavorite,
     filteredTools,
-  } = useTools(); 
+  } = useTools();
 
   return (
     <div className="w-full lg:w-9/12 p-4">
@@ -91,3 +90,11 @@ export const ToolsSection: React.FC<ToolsSectionProps> = ({
     </div>
   );
 };
+
+export const ToolsSection: React.FC = () => {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <_ToolsSection />
+    </Suspense>
+  );
+}
