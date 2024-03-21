@@ -21,13 +21,11 @@ export const useDraggableScroll = (): ReturnObject => {
     // if (movement.current > 20) {
       startPos.current.e?.stopPropagation();
       startPos.current.e?.preventDefault();
-      document.body.style.cursor = 'grabbing';
       startPos.current.ref.current.scrollLeft = startPos.current.scrollLeft - dx;
     // }
   }, []);
 
   const onMouseUp = useCallback(() => {
-    document.body.style.cursor = '';
     document.removeEventListener('mousemove', onMouseMove);
     document.removeEventListener('mouseup', onMouseUp);
     // movement.current = 0; // Reset movement
@@ -37,7 +35,6 @@ export const useDraggableScroll = (): ReturnObject => {
     if (!(e.target instanceof HTMLElement) || e.target.classList.contains('tag')) {
       return;
     }
-    e.target.style.cursor = 'grab'
     e.target.style.userSelect = 'none'
 
     const node = e.currentTarget as HTMLDivElement;
@@ -47,7 +44,6 @@ export const useDraggableScroll = (): ReturnObject => {
       scrollLeft: node.scrollLeft,
       ref: { current: node },
     };
-    document.body.style.cursor = 'grabbing';
     document.addEventListener('mousemove', onMouseMove);
     document.addEventListener('mouseup', onMouseUp);
   }, [onMouseMove, onMouseUp]);

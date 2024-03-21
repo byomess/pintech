@@ -1,12 +1,19 @@
 import Head from 'next/head';
-import { ToolsProvider } from '@/hooks/useTools'
+import { ToolsProvider, Tool } from '@/hooks/useTools'
+import { getTools } from '@/api/pintech';
 
 import { TagsSection } from './components/tags-section';
 import { ToolsSection } from './components/tools-section';
 
-const Home: React.FC = () => {
+const fetchTools = async (): Promise<Tool[]> => {
+  const tools: Tool[] = await getTools();
+  return tools;
+}
+
+const Home: React.FC = async () => {
+  const tools = await fetchTools();
   return (
-    <ToolsProvider>
+    <ToolsProvider tools={tools}>
       <div className="flex flex-col lg:flex-row bg-gray-800 text-white min-h-screen">
         <Head>
           <title>pintech</title>
