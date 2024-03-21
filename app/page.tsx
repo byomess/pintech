@@ -1,11 +1,11 @@
-import Head from 'next/head';
-import { ToolsProvider, Tool } from '@/hooks/useTools'
+import Head from "next/head";
+import { ToolsProvider, Tool } from "@/contexts/tools-context";
 // import { getTools } from '@/api/pintech';
 
-import { TagsSection } from './components/tags-section';
-import { ToolsSection } from './components/tools-section';
+import { TagsSection } from "./components/tags-section";
+import { ToolsSection } from "./components/tools-section";
 
-import tools from '@/app/api/tools/data.json';
+import tools from "@/app/api/tools/data.json";
 
 // const fetchTools = async (): Promise<Tool[]> => {
 //   const tools: Tool[] = await getTools();
@@ -20,14 +20,16 @@ const Home: React.FC = async () => {
         <Head>
           <title>pintech</title>
           <meta charSet="UTF-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+          />
           <link href="https://cdn.tailwindcss.com" rel="stylesheet" />
         </Head>
 
         <TagsSection />
 
-        <ToolsSection
-        />
+        <ToolsSection />
       </div>
     </ToolsProvider>
   );

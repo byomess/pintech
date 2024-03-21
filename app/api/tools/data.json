@@ -11,6 +11,7 @@
   },
   {
     "name": "TheseMetrics",
+    "inactive": true,
     "description": {
       "en-us": "Streamlined website metrics tool for easy insights and analysis.",
       "pt-br": "Ferramenta simplificada de métricas para websites, proporcionando insights e análises facilitadas."
@@ -6777,7 +6778,13 @@
       "en-us": "Automate work with builder and connectors, open-source alternative to major automation tools, host on your machine.",
       "pt-br": "Automatize o trabalho com construtor e conectores, alternativa de código aberto para grandes ferramentas de automação, hospede em sua máquina."
     },
-    "tags": ["no-code", "automation", "open-source", "workflow", "productivity"],
+    "tags": [
+      "no-code",
+      "automation",
+      "open-source",
+      "workflow",
+      "productivity"
+    ],
     "freeOffer": "Free self-hosted, and a free cloud tier",
     "url": "https://www.activepieces.com/",
     "logoPath": "/logos/Activepieces-httpsuploadssslwebflowcom62c21c5.png"
@@ -10242,4 +10249,3 @@
     "logoPath": "/logos/Github Action-httpsgithubgithubassetscomimages.svg"
   }
 ]
-

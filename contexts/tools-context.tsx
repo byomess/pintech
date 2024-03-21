@@ -1,7 +1,7 @@
 "use client";
 
 import React, { createContext, useState, useMemo, useCallback, ReactNode, useContext } from 'react';
-import useLocalStorage from '@/hooks/useLocalStorage'; // Adjust the path as necessary
+import useLocalStorage from '@/hooks/useLocalStorage';
 
 export type Tool = {
     name: string;
@@ -64,6 +64,8 @@ export const ToolsProvider: React.FC<ToolsProviderProps> = ({ tools, children })
     }, []);
 
     const favoriteSet = useMemo(() => new Set(favorites), [favorites]);
+
+    console.log(tools.at(1))
 
     const preprocessedTools = useMemo(() => tools.filter(tool => !tool.inactive).map(tool => ({
         ...tool,
