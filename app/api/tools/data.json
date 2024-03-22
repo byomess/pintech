@@ -1,9 +1,19 @@
 [
   {
+    "name": "lazyvim",
+    "description": {
+      "en-us": "Transform your Neovim into a full-fledged IDE, enhancing productivity with smart defaults and seamless tool integration for a smoother coding workflow.",
+      "pt-br": "Transforme seu Neovim em uma IDE completa, aprimorando a produtividade com padrões inteligentes e integração perfeita de ferramentas para um fluxo de trabalho de codificação mais suave."
+    },
+    "tags": ["vim", "neovim", "neovim-plugin", "ide", "productivity", "editor", "development-tools"],
+    "url": "https://www.lazyvim.org/",
+    "logoPath": "/logos/lazyvim.svg"
+  },
+  {
     "name": "lst",
     "description": {
-      "en-us": "An enhanced version of the Unix ls tool that provides a more informative and visually appealing way to list files and directories.",
-      "pt-br": "Uma versão aprimorada da ferramenta ls do Unix que fornece uma maneira mais informativa e visualmente atraente de listar arquivos e diretórios."
+      "en-us": "An enhanced version of the Unix-like systems' ls tool that provides a more informative and visually appealing way to list files and directories.",
+      "pt-br": "Uma versão aprimorada da ferramenta ls dos sistemas baseados em Unix que fornece uma maneira mais informativa e visualmente atraente de listar arquivos e diretórios."
     },
     "tags": ["cli", "linux", "command-line", "file-management"],
     "url": "https://github.com/felipechierice/lst",
