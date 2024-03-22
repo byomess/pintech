@@ -9,6 +9,7 @@ import { FaStar, FaRegStar } from "react-icons/fa";
 import { useTools } from "@/contexts/tools-context";
 import AutoScrollContent from "./auto-scroll-content";
 import { useDraggableScroll } from "@/hooks/useDraggableScroll";
+import clsx from "clsx";
 
 export type ToolsSectionProps = {};
 
@@ -21,6 +22,7 @@ const ToolCard: React.FC<{
   description?: Record<string, any>;
   isFavorite?: boolean;
   inactive?: boolean;
+  createdAt?: number;
   ref?: React.RefObject<HTMLDivElement | null>;
   isClient: boolean;
   locale: string;
@@ -34,14 +36,21 @@ const ToolCard: React.FC<{
   description,
   isFavorite,
   isClient,
+  createdAt,
   locale,
   toggleFavorite,
 }) => {
   const { ref: draggableScrollRef } = useDraggableScroll();
+
+  const parsedCreatedAt = createdAt ? new Date(createdAt) : null;
+  const isNew = parsedCreatedAt && Date.now() - parsedCreatedAt.getTime() < 30 * 24 * 60 * 60 * 1000;
+
+  if (['lazyvim', 'lst'].includes(name)) console.log("ToolCard", name, createdAt, parsedCreatedAt, isNew)
+
   return (
     <div
       key={name}
-      className="break-inside-avoid p-4 bg-gray-700 rounded-lg shadow-md border border-solid border-gray-600 hover:border-white flex flex-col mb-4 overflow-hidden"
+      className={clsx("break-inside-avoid p-4 bg-gray-700 rounded-lg shadow-md border border-solid flex flex-col mb-4 overflow-hidden", isFavorite ? "border-yellow-400 hover:border-yellow-200" : "border-gray-600 hover:border-white")}
     >
       <div className="flex items-start space-x-4">
         {logoPath && (
@@ -75,7 +84,7 @@ const ToolCard: React.FC<{
               aria-label={isFavorite ? "Unfavorite" : "Favorite"}
             >
               {isClient && isFavorite ? (
-                <FaStar size="1.5rem" className="text-rose-600" />
+                <FaStar size="1.5rem" className="text-yellow-500" />
               ) : (
                 <FaRegStar size="1.5rem" />
               )}
@@ -86,6 +95,11 @@ const ToolCard: React.FC<{
             className="cursor-grab active:cursor-grabbing flex flex-1 mt-2 overflow-auto hide-scrollbar gap-1"
             style={{ whiteSpace: "nowrap" }}
           >
+            {isNew && (
+              <div className="text-xs whitespace-nowrap py-1 px-2 rounded-md bg-yellow-500 text-black">
+                <span>new</span>
+              </div>
+            )}
             {tags.map((tag, index) => (
               <div
                 key={index}

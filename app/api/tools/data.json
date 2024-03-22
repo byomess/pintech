@@ -7,7 +7,8 @@
     },
     "tags": ["vim", "neovim", "neovim-plugin", "ide", "productivity", "editor", "development-tools"],
     "url": "https://www.lazyvim.org/",
-    "logoPath": "/logos/lazyvim.svg"
+    "logoPath": "/logos/lazyvim.svg",
+    "createdAt": 1711119861177
   },
   {
     "name": "lst",
@@ -17,7 +18,8 @@
     },
     "tags": ["cli", "linux", "command-line", "file-management"],
     "url": "https://github.com/felipechierice/lst",
-    "logoPath": "/logos/lst.png"
+    "logoPath": "/logos/lst.png",
+    "createdAt": 1711119861177
   },
   {
     "name": "Focalboard",

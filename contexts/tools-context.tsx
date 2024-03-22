@@ -12,6 +12,7 @@ export type Tool = {
     description?: Record<string, any>;
     isFavorite?: boolean;
     inactive?: boolean;
+    createdAt?: number;
 };
 
 type ToolsContextType = {
