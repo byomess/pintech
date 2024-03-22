@@ -3,7 +3,7 @@
     "name": "lst",
     "description": {
       "en-us": "An enhanced version of the Unix ls tool that provides a more informative and visually appealing way to list files and directories.",
-      "pt-br": "Uma versão aprimorada do comando ls tradicional encontrado em sistemas Linux que fornece uma maneira mais informativa e visualmente atraente de listar arquivos e diretórios."
+      "pt-br": "Uma versão aprimorada da ferramenta ls do Unix que fornece uma maneira mais informativa e visualmente atraente de listar arquivos e diretórios."
     },
     "tags": ["cli", "linux", "command-line", "file-management"],
     "url": "https://github.com/felipechierice/lst",
