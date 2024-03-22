@@ -1,5 +1,15 @@
 [
   {
+    "name": "lst",
+    "description": {
+      "en-us": "An enhanced version of the Unix ls tool that provides a more informative and visually appealing way to list files and directories.",
+      "pt-br": "Uma versão aprimorada do comando ls tradicional encontrado em sistemas Linux que fornece uma maneira mais informativa e visualmente atraente de listar arquivos e diretórios."
+    },
+    "tags": ["cli", "linux", "command-line", "file-management"],
+    "url": "https://github.com/felipechierice/lst",
+    "logoPath": "/logos/lst.png"
+  },
+  {
     "name": "Focalboard",
     "description": {
       "en-us": "An open source, multilingual, self-hosted project management tool that's an alternative to Trello, Notion, and Asana.",
@@ -38,13 +48,14 @@
     "logoPath": "/logos/PopSQL-httpspopsqlcomstaticfaviconapple.png"
   },
   {
-    "name": "Switching Software",
+    "name": "switching.software",
     "description": {
       "en-us": "Privacy-conscious alternatives to popular software for ethical and easy-to-use experience.",
       "pt-br": "Alternativas conscientes de privacidade para software popular, proporcionando uma experiência ética e fácil de usar."
     },
     "tags": ["awesome-list", "privacy", "ethical", "alternative", "software"],
-    "url": "https://switching.software/"
+    "url": "https://switching.software/",
+    "logoPath": "/logos/refined/switching.software.png"
   },
   {
     "name": "Mobbin",
@@ -81,7 +92,7 @@
       "privacy"
     ],
     "url": "https://solidproject.org/",
-    "logoPath": "/logos/Solid Project-httpssolidprojectorgfaviconico.ico"
+    "logoPath": "/logos/refined/Solid Project.png"
   },
   {
     "name": "Replay",
@@ -103,7 +114,7 @@
     "tags": ["saas", "alternative"],
     "freeOffer": "Curated links, reviews, information and research on software alternatives",
     "url": "https://www.saashub.com/",
-    "logoPath": "/logos/SaaSHub-httpspbstwimgcomprofile_images11.jpg"
+    "logoPath": "/logos/refined/SaaSHub.png"
   },
   {
     "name": "designstripe",
@@ -136,7 +147,7 @@
     "tags": ["API", "database", "organization"],
     "freeOffer": "Unlimited bases\n1,200 records per base\n2GB of attachments per base\nGrid, calendar, kanban, form, & gallery views",
     "url": "https://airtable.com/",
-    "logoPath": "/logos/Airtable-httpspbstwimgcomprofile_images91.jpg"
+    "logoPath": "/logos/refined/Airtable.png"
   },
   {
     "name": "Coolors.co",
@@ -157,17 +168,17 @@
     "tags": ["form", "forms-backend"],
     "freeOffer": "1 Form\n100 Submissions /Month\nCustomize Thank You page\nAuto-responses\nExport your data",
     "url": "https://fabform.io",
-    "logoPath": "/logos/Fabform-httpswwwsaashubcomimagesappservi.png"
+    "logoPath": "/logos/refined/Fabform.svg"
   },
   {
-    "name": "Devdocs",
+    "name": "DevDocs",
     "description": {
       "en-us": "An open source API documentation browser that consolidates multiple docs into a single web interface for easy access.",
       "pt-br": "Um navegador de documentação de API de código aberto que consolida vários documentos em uma única interface web para facilitar o acesso."
     },
     "tags": ["learning-resource", "documentation", "web"],
     "url": "https://devdocs.io/",
-    "logoPath": "/logos/Devdocs-httpsiimgurcomYuLMMgTpng.png"
+    "logoPath": "/logos/refined/DevDocs.png"
   },
   {
     "name": "ExtendsClass CSV Generator",
@@ -178,7 +189,7 @@
     "tags": ["mock-data", "mock-api", "json", "csv", "sql"],
     "freeOffer": "No limit in the browser\n200 API requests/day\n5000 rows per call",
     "url": "https://extendsclass.com/csv-generator.html",
-    "logoPath": "/logos/ExtendsClasss CSV Generator-httpsextendsclasscomfaviconpng.png"
+    "logoPath": "/logos/refined/ExtendsClass.png"
   },
   {
     "name": "AWS DynamoDB",
@@ -3488,7 +3499,7 @@
     },
     "tags": ["awesome-list", "privacy", "encryption", "security"],
     "url": "https://encryptedlist.xyz/",
-    "logoPath": "/logos/EncryptedList-httpsenclistsirvcomlogowebph100.jpg"
+    "logoPath": "/logos/refined/EncryptedList.png"
   },
   {
     "name": "Kubernetes",
@@ -3505,7 +3516,7 @@
     ],
     "freeOffer": "Open Source\nContainer Orchestration",
     "url": "https://kubernetes.io/",
-    "logoPath": "/logos/Kubernetes-httpskubernetesioimagesnav_logos.svg"
+    "logoPath": "/logos/refined/Kubernetes.png"
   },
   {
     "name": "ClamAV",
@@ -3559,7 +3570,7 @@
     "tags": ["product-management", "team-collaboration", "task-management"],
     "freeOffer": "Unlimited tasks\nUnlimited projects\nUnlimited messages\nUnlimited activity log\nUnlimited file storage (100MB per file)\nCollaborate with up to 15 teammates",
     "url": "https://asana.com/",
-    "logoPath": "/logos/Asana-httpsd1gwm4cf8hecp4cloudfrontnet.png"
+    "logoPath": "/logos/refined/Asana.png"
   },
   {
     "name": "DirectDL",
@@ -3602,7 +3613,7 @@
     "tags": ["text-editor", "code", "markup", "performance", "user-interface"],
     "freeOffer": "Evaluated for free, a license must be purchased for continued use. \nThere is currently no enforced time limit for the evaluation.",
     "url": "https://www.sublimetext.com/",
-    "logoPath": "/logos/Sublime Text-httpswwwsublimetextcomfaviconico.ico"
+    "logoPath": "/logos/refined/Sublime Text.png"
   },
   {
     "name": "Bonsai | Web Browser",
@@ -6915,7 +6926,7 @@
     "tags": ["note-taking", "markdown", "cross-platform", "organization"],
     "freeOffer": "Open Source",
     "url": "https://joplinapp.org/",
-    "logoPath": "/logos/Joplin-httpsrawgithubusercontentcomlaur.png"
+    "logoPath": "/logos/refined/Joplin.png"
   },
   {
     "name": "Hashover",
@@ -6935,7 +6946,7 @@
     },
     "tags": ["whiteboard", "diagram", "drawing", "collaboration", "sketching"],
     "url": "https://excalidraw.com/",
-    "logoPath": "/logos/Excalidraw-httpsexcalidrawcomfaviconico.ico"
+    "logoPath": "/logos/refined/Excalidraw.png"
   },
   {
     "name": "Partytown",
@@ -6949,7 +6960,7 @@
     "logoPath": "/logos/Partytown-httpspartytownbuilderiopartytown.svg"
   },
   {
-    "name": "Online JSON Formatter",
+    "name": "JSON Formatter",
     "description": {
       "en-us": "Format and validate JSON data easily, convert JSON to XML or CSV, and save or share your JSON files online.",
       "pt-br": "Formate e valide dados JSON facilmente, converta JSON para XML ou CSV e salve ou compartilhe seus arquivos JSON online."
@@ -6962,7 +6973,7 @@
       "file conversion"
     ],
     "url": "https://jsonformatter.org/",
-    "logoPath": "/logos/Online JSON Formatter-httpsjsonformatterorgimgfaviconp.png"
+    "logoPath": "/logos/refined/JSON formatter.png"
   },
   {
     "name": "DevPal",
