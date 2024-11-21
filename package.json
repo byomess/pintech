@@ -11,6 +11,8 @@
   "dependencies": {
     "@types/lodash": "^4.14.202",
     "@types/react-window": "^1.8.8",
+    "@vercel/analytics": "^1.4.1",
+    "@vercel/speed-insights": "^1.1.0",
     "axios": "^1.6.8",
     "clsx": "^2.1.0",
     "lodash": "^4.17.21",
