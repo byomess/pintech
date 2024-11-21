@@ -3,9 +3,7 @@
 import React, { useRef, useState, Suspense, useEffect } from "react";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
-
 import { FaStar, FaRegStar } from "react-icons/fa";
-
 import { useTools } from "@/contexts/tools-context";
 import AutoScrollContent from "./auto-scroll-content";
 import { useDraggableScroll } from "@/hooks/useDraggableScroll";
@@ -23,7 +21,6 @@ const ToolCard: React.FC<{
   isFavorite?: boolean;
   inactive?: boolean;
   createdAt?: number;
-  ref?: React.RefObject<HTMLDivElement | null>;
   isClient: boolean;
   locale: string;
   toggleFavorite: (toolName: string) => void;
@@ -41,15 +38,11 @@ const ToolCard: React.FC<{
   toggleFavorite,
 }) => {
   const { ref: draggableScrollRef } = useDraggableScroll();
-
   const parsedCreatedAt = createdAt ? new Date(createdAt) : null;
   const isNew = parsedCreatedAt && Date.now() - parsedCreatedAt.getTime() < 30 * 24 * 60 * 60 * 1000;
 
-  if (['lazyvim', 'lst'].includes(name)) console.log("ToolCard", name, createdAt, parsedCreatedAt, isNew)
-
   return (
     <div
-      key={name}
       className={clsx("break-inside-avoid p-4 bg-gray-700 rounded-lg shadow-md border border-solid flex flex-col mb-4 overflow-hidden", isFavorite ? "border-yellow-400 hover:border-yellow-200" : "border-gray-600 hover:border-white")}
     >
       <div className="flex items-start space-x-4">

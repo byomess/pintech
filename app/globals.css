@@ -36,6 +36,12 @@ body {
   /* Firefox */
 }
 
+.container {
+  min-height: 400px; /* Set a minimum height */
+  height: 100%; /* Or a specific height */
+  min-width: 100%; /* Set a minimum width */
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
