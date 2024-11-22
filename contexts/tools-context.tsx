@@ -50,8 +50,8 @@ export const ToolsProvider: React.FC<ToolsProviderProps> = ({ tools, children })
     const [tagsOrderBy, setTagsOrderBy] = useState<'mostUsed' | 'alphabetic'>('mostUsed');
     const [showAllTags, setShowAllTags] = useState(false);
 
-    const debouncedSetToolsSearchTerm = useMemo(() => debounce(setToolsSearchTerm, 300), []);
-    const debouncedSetTagsSearchTerm = useMemo(() => debounce(setTagsSearchTerm, 300), []);
+    const debouncedSetToolsSearchTerm = debounce(setToolsSearchTerm, 300)
+    const debouncedSetTagsSearchTerm = debounce(setTagsSearchTerm, 300)
 
     const toggleFavorite = useCallback((toolName: string) => {
         setFavorites(currentFavorites => {
