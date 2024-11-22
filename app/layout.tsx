@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Fira_Sans, JetBrains_Mono } from "next/font/google";
 import { Analytics } from '@vercel/analytics/next';
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import { GoogleAdSense } from "nextjs-google-adsense";
 import "./globals.css";
 
 const inter = JetBrains_Mono({
@@ -27,6 +28,7 @@ export default function RootLayout({
       <body className={inter.className}>{children}</body>
       <Analytics />
       <SpeedInsights />
+      <GoogleAdSense publisherId="ca-pub-8223913407934219" />
     </html>
   );
 }
