@@ -205,7 +205,7 @@ const _ToolsSection: React.FC = () => {
             style={{ display: "block" }}
             data-ad-client="ca-pub-8223913407934219"
             data-ad-slot="8699990439"
-            data-ad-format="auto"
+            data-ad-format="fluid"
             data-full-width-responsive="true"
           ></ins>
           {visibleTools.map((tool) => (
