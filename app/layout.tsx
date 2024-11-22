@@ -28,7 +28,7 @@ export default function RootLayout({
       <body className={inter.className}>{children}</body>
       <Analytics />
       <SpeedInsights />
-      <GoogleAdSense publisherId="ca-pub-8223913407934219" />
+      <GoogleAdSense publisherId="pub-8223913407934219" />
     </html>
   );
 }
