@@ -9,7 +9,7 @@ const inter = JetBrains_Mono({
   subsets: ["latin"],
   variable: "--font-inter",
   display: "swap",
-  
+
   // weight: "400"
 });
 
@@ -25,10 +25,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8223913407934219"
+          crossOrigin="anonymous"></script>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({ });
+        </script>
+      </head>
       <body className={inter.className}>{children}</body>
       <Analytics />
       <SpeedInsights />
-      <GoogleAdSense publisherId="pub-8223913407934219" />
+      {/* <GoogleAdSense publisherId="pub-8223913407934219" /> */}
     </html>
   );
 }
