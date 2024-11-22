@@ -9,6 +9,7 @@ import AutoScrollContent from "./auto-scroll-content";
 import { useDraggableScroll } from "@/hooks/useDraggableScroll";
 import Masonry from "react-masonry-css";
 import clsx from "clsx";
+import { ResponsiveAdUnit } from "nextjs-google-adsense";
 
 const ITEMS_PER_BATCH = 50;
 
@@ -195,6 +196,18 @@ const _ToolsSection: React.FC = () => {
           columnClassName="masonry-column grid-column"
 
         >
+          {/* <ResponsiveAdUnit
+            publisherId="pub-8223913407934219"
+            slotId="8699990439"
+            style={{ display: "block" }}
+          /> */}
+          <ins className="adsbygoogle"
+            style={{ display: "block" }}
+            data-ad-client="ca-pub-8223913407934219"
+            data-ad-slot="8699990439"
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          ></ins>
           {visibleTools.map((tool) => (
             <ToolCard
               key={tool.name}
