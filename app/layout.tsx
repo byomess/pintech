@@ -28,7 +28,7 @@ export default function RootLayout({
       <head>
 
         {/* eslint-disable-next-line @next/next/no-sync-scripts */}
-        <script async type='text/javascript' src='//pl25076615.profitablecpmrate.com/6f/33/78/6f3378a0075a52704d922406534c28da.js'></script>
+        {/* <script async type='text/javascript' src='//pl25076615.profitablecpmrate.com/6f/33/78/6f3378a0075a52704d922406534c28da.js'></script> */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8223913407934219"
           crossOrigin="anonymous"></script>
         <script>

@@ -201,8 +201,8 @@ const _ToolsSection: React.FC = () => {
             slotId="8699990439"
             style={{ display: "block" }}
           /> */}
-          <script async data-cfasync="false" src="//pl25076520.profitablecpmrate.com/32e5f16bcf4a534823857f8ef830c334/invoke.js"></script>
-          <div id="container-32e5f16bcf4a534823857f8ef830c334"></div>
+          {/* <script async data-cfasync="false" src="//pl25076520.profitablecpmrate.com/32e5f16bcf4a534823857f8ef830c334/invoke.js"></script>
+          <div id="container-32e5f16bcf4a534823857f8ef830c334"></div> */}
           <ins className="adsbygoogle"
             style={{ display: "block" }}
             data-ad-client="ca-pub-8223913407934219"
