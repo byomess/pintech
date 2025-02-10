@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useMemo, useRef } from "react";
+import Image from "next/image";
 import { Tool, useTools } from "@/contexts/tools-context";
 import { CustomSelect } from "@/components/custom-select";
 import { Tag } from "@/components/tag";
@@ -10,11 +11,6 @@ export type TagsSectionProps = {};
 const orderByOptions = [
   { value: "mostUsed", label: "Most Used" },
   { value: "alphabetic", label: "Alphabetic" },
-];
-
-const filterOptions = [
-  { value: false, label: "All" },
-  { value: true, label: "Favorites" },
 ];
 
 export const TagsSection: React.FC = () => {
@@ -28,8 +24,6 @@ export const TagsSection: React.FC = () => {
     setTagsSearchTerm,
     selectedTags,
     toggleTagSelection,
-    showFavoritesOnly,
-    setShowFavoritesOnly,
     filteredTools,
   } = useTools();
 
@@ -60,33 +54,26 @@ export const TagsSection: React.FC = () => {
 
   return (
     <div className="w-full lg:w-3/12">
-      <h1 className="text-3xl font-bold text-center my-4 block sm:hidden">
+      {/* <h1 className="text-3xl font-bold text-center my-4 block sm:hidden">
         pintech
-      </h1>
-      <div className="bg-gray-900 p-4 h-full">
-        <div className="flex flex-row justify-between items-center mb-4">
-          <h3 className="text-md font-bold text-white">Filter Tools</h3>
-          <CustomSelect
-            options={filterOptions}
-            value={
-              showFavoritesOnly
-                ? filterOptions[1].value
-                : filterOptions[0].value
-            }
-            onChange={(selectedOption) =>
-              setShowFavoritesOnly(selectedOption as boolean)
-            }
-            className="w-1/2"
-          />
-        </div>
+      </h1> */}
+      <div className="bg-background-blue p-4 h-full">
+        <div className="flex justify-center md:justify-start items-center mb-4 w-full">
+          <a href="/">
+            <span className="text-4xl md:text-3xl font-bold text-white">
+              <span className="text-green-400 drop-shadow-[0_0_6px_rgba(52,211,153,0.8)]">p</span>in
+              <span className="text-blue-400 drop-shadow-[0_0_6px_rgba(96,165,250,0.8)]">t</span>ech
+            </span>
 
+          </a>
+        </div>
         <div className="flex flex-col justify-center w-full border-2 border-solid rounded-md border-gray-700 px-4 pt-4">
           <div className="flex flex-col">
             <input
               ref={searchElementRef}
               type="text"
               placeholder="Search tags..."
-              className="w-full mb-4 px-4 py-2 rounded-md bg-gray-800 text-white"
+              className="w-full mb-4 px-4 py-2 rounded-md bg-card-background text-white"
               onChange={(e) => setTagsSearchTerm(e.target.value)}
             />
 

@@ -16,7 +16,7 @@ const Home: React.FC = async () => {
   // const tools = await fetchTools();
   return (
     <ToolsProvider tools={tools}>
-      <div className="flex flex-col lg:flex-row bg-gray-800 text-white min-h-screen">
+      <div className="flex flex-col lg:flex-row bg-background-blue-lighter text-white min-h-screen">
         <Head>
           <title>pintech</title>
           <meta charSet="UTF-8" />

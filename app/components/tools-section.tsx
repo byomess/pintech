@@ -9,9 +9,14 @@ import AutoScrollContent from "./auto-scroll-content";
 import { useDraggableScroll } from "@/hooks/useDraggableScroll";
 import Masonry from "react-masonry-css";
 import clsx from "clsx";
-import { ResponsiveAdUnit } from "nextjs-google-adsense";
+import { CustomSelect } from "@/components/custom-select";
 
 const ITEMS_PER_BATCH = 50;
+
+const filterOptions = [
+  { value: false, label: "All" },
+  { value: true, label: "Favorites" },
+];
 
 const ToolCard: React.FC<{
   name: string;
@@ -46,7 +51,7 @@ const ToolCard: React.FC<{
   return (
     <div
       className={clsx(
-        "break-inside-avoid p-4 bg-gray-700 rounded-lg shadow-md border border-solid flex flex-col mb-4 overflow-hidden",
+        "break-inside-avoid p-4 bg-card-background rounded-lg shadow-md border border-solid flex flex-col mb-4 overflow-hidden",
         isFavorite ? "border-yellow-400 hover:border-yellow-200" : "border-gray-600 hover:border-white"
       )}
     >
@@ -129,7 +134,7 @@ const _ToolsSection: React.FC = () => {
     return searchParams.get(localeParam) || "en-us";
   });
 
-  const { setToolsSearchTerm, toggleFavorite, filteredTools } = useTools();
+  const { setToolsSearchTerm, toggleFavorite, filteredTools, showFavoritesOnly, setShowFavoritesOnly } = useTools();
   const [visibleTools, setVisibleTools] = useState(filteredTools.slice(0, ITEMS_PER_BATCH));
 
   useEffect(() => {
@@ -165,15 +170,15 @@ const _ToolsSection: React.FC = () => {
       style={{ maxHeight: "calc(100vh)", scrollBehavior: "smooth", scrollbarWidth: "thin" }}
     >
       <div className="container mx-auto">
-        <h1 className="text-3xl font-bold text-center mb-4 hidden sm:block">
+        {/* <h1 className="text-3xl font-bold text-center mb-4 hidden sm:block">
           <span className="text-rose-600">pin</span>tech
-        </h1>
+        </h1> */}
         <div className="relative w-full mb-4">
           <input
             ref={searchElementRef}
             type="text"
             placeholder="Search tools..."
-            className="w-full px-4 py-2 pr-10 rounded-md bg-gray-700 text-white"
+            className="w-full px-4 py-2 pr-10 rounded-md bg-card-background text-white"
             onChange={(e) => setToolsSearchTerm(e.target.value)}
           />
           <button
@@ -188,6 +193,23 @@ const _ToolsSection: React.FC = () => {
           >
             ✕
           </button>
+        </div>
+
+        <div className="flex items-center mb-8 gap-4">
+          <h3 className="text-md font-bold text-white">Filter By</h3>
+          <CustomSelect
+            options={filterOptions}
+            value={
+              showFavoritesOnly
+                ? filterOptions[1].value
+                : filterOptions[0].value
+            }
+            onChange={(selectedOption) =>
+              setShowFavoritesOnly(selectedOption as boolean)
+            }
+            className="w-28"
+            size="sm"
+          />
         </div>
 
         <Masonry
