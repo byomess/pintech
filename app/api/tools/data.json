@@ -1,5 +1,33 @@
 [
   {
+    "name": "xpac",
+    "description": {
+      "en-us": "Unified command-line interface for package management (apt, pacman, dnf...) and system utilities across different Linux distros.",
+      "pt-br": "Interface de linha de comando unificada para gerenciamento de pacotes (apt, pacman, dnf...) e utilitários de sistema em diferentes distros Linux."
+    },
+    "tags": [
+      "package-manager",
+      "wrapper",
+      "cross-distro",
+      "linux",
+      "cli",
+      "terminal",
+      "system-utilities",
+      "apt",
+      "pacman",
+      "dnf",
+      "yum",
+      "zypper",
+      "pkg",
+      "yay",
+      "bash",
+      "shell"
+    ],
+    "url": "https://github.com/byomess/xpac",
+    "logoPath": "/logos/refined/GitHub.svg",
+    "createdAt": 1744484014462
+  },
+  {
     "name": "Yazi",
     "description": {
       "en-us": "Blazing fast terminal file manager written in Rust, based on asynchronous I/O.",
